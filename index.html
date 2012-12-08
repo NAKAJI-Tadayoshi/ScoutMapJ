@@ -1,74 +1,55 @@
 <!DOCTYPE html>
 <html>
-
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Scoutmapj : Search the SCOUTS @Japan" />
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Scoutmapj</title>
+    <title>We are SCOUTS @Japan ～ボーイスカウト活動地域検索～</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map_canvas { margin: 0; padding: 0; height: 100%; }
+      fieldset { display: inline; padding: 0 2px; }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false&language=ja"></script>
+    <script src="./javascripts/prefgroup.js"></script>
+    <script src="./javascripts/scoutmapj.js"></script>
   </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ">View on GitHub</a>
-
-          <h1 id="project_title">Scoutmapj</h1>
-          <h2 id="project_tagline">Search the SCOUTS @Japan</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+    <div align="center">
+      <b>We are SCOUTS !!</b> ～ボーイスカウト活動地域検索～
     </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Welcome to GitHub Pages.</h3>
-
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
+    <div>
+      <button onclick="$('#description').toggle()">説明・凡例の表示/非表示</button>
     </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Scoutmapj maintained by <a href="https://github.com/NAKAJI-Tadayoshi">NAKAJI-Tadayoshi</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
+    <div id="description">
+      ボーイスカウトの主な活動拠点、および、よく利用するキャンプ場などを検索できます。<br />
+      はじめての方は <a href="http://www.scout.or.jp/whats_scouting/"><b>ボーイスカウトとは？</b></a> をご参照ください。<br />
+      <em>現在、データ登録中の為、お近くの団が表示されていないこともあります。</em><br />
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/campground.png" width="32" height="32"/>団本部・活動拠点ほか</fieldset>
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/rangerstation.png" width="32" height="32"/>連盟所在地ほか</fieldset>
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/campfire.png" width="32" height="32"/>おすすめのキャンプ場ほか</fieldset>
     </div>
-
-    
-
+    <noscript>
+      <p><em>このページでは JavaScript を使用しています。お手数ですが JavaScript を有効にして、再表示してください。</em></p>
+    </noscript>
+    <hr />
+    <div align="center">
+      <fieldset>
+        <label for="addr">場所や住所から検索</label>
+        <input id="addr" type="textbox" value="" onkeypress="enter2codeAddress(event)">
+        <button onclick="codeAddress(true)">Go!</button>
+      </fieldset>
+      <fieldset>
+        <label for="pref">連盟から検索</label>
+        <select id="pref"></select>
+        <button onclick="selectPref()">Go!</button>
+      </fieldset>
+    </div>
+    <div id="map_canvas"></div>
+    <hr />
+    <div align="right">
+      Copyright (C) 2012 NAKAJI Tadayoshi<br />
+      このプロジェクトにご協力いただける方は <a href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ/wiki">こちら</a> をご覧ください。<br />
+      <address>このページについてのお問い合わせは <a href="mailto:nakaji.tadayoshi@gmail.com">中路 (大阪連盟 吹田第10団)</a> へお願いします。</address>
+    </div>
   </body>
 </html>
