@@ -31,14 +31,56 @@
   <marker type="D" ll="34.781266,135.469739" name="大阪連盟 豊中地区" url="http://boyscout-toyonaka.seesaa.net/"
       x0401="27" post="" addr="豊中市" tel="" fax=""
       notes=""/>
-  <marker type="G" ll="34.812321,135.473421" name="豊中 第17団" url="http://www.tcct.zaq.ne.jp/toyonaka17/"
-      x0401="27" post="" addr="野畑小学校近辺" tel="" fax=""
+  <marker type="G" ll="34.790538,135.448352" name="豊中 第1団" url=""
+      x0401="27" post="" addr="蛍池小学校近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.786326,135.473922" name="豊中 第2団" url="http://blogs.dion.ne.jp/222222/"
+      x0401="27" post="" addr="栗ケ丘会館近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.803806,135.462959" name="豊中 第3団" url=""
+      x0401="27" post="" addr="桜井谷小学校近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.798655,135.477005" name="豊中 第4団" url="http://www.geocities.co.jp/Outdoors-Mountain/7565/"
+      x0401="27" post="" addr="上野会館近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.776039,135.463925" name="豊中 第5団" url="http://bstoyonaka5.chakin.com/"
+      x0401="27" post="" addr="大塚会館近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.788071,135.463747" name="豊中 第6団" url="http://bstoyo6.blogspot.jp/"
+      x0401="27" post="" addr="大池コミュニティプラザ近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.748659,135.465448" name="豊中 第7団" url=""
+      x0401="27" post="" addr="島田小学校近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.768086,135.473796" name="豊中 第8団" url=""
+      x0401="27" post="" addr="中豊島小学校近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.790273,135.467067" name="豊中 第12団" url="http://t12.no-blog.jp/"
+      x0401="27" post="560-0001" addr="大阪府豊中市本町6-1-6 カトリック豊中教会" tel="06-6852-4110" fax="06-6852-4277"
+      notes=""/>
+  <marker type="G" ll="34.815342,135.497848" name="豊中 第14団" url="http://tichiyon.cocolog-nifty.com/blog/"
+      x0401="27" post="" addr="せんりひじり幼稚園近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.801713,135.451692" name="豊中 第15団" url="http://www.geocities.jp/twilight_moonjp/bs-toyonaka15.html"
+      x0401="27" post="560-0043" addr="豊中市待兼山街5-17 石橋聖トマス教会" tel="06-6854-8657" fax="06-6854-8658"
+      notes=""/>
+  <marker type="G" ll="34.774939,135.473044" name="豊中 第16団" url="http://toyonaka16.seesaa.net/"
+      x0401="27" post="" addr="あけぼの幼稚園近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.810849,135.478949" name="豊中 第17団" url="http://www.tcct.zaq.ne.jp/toyonaka17/"
+      x0401="27" post="" addr="緑丘会館近辺" tel="" fax=""
       notes=""/>
   <marker type="G" ll="34.784537,135.484278" name="豊中 第18団" url="http://www.toyonaka18.com/"
       x0401="27" post="" addr="泉丘小学校近辺" tel="" fax=""
       notes=""/>
-  <marker type="G" ll="34.81105,135.489533" name="豊中 第20団" url="http://www.bs-t20.org/"
-      x0401="27" post="" addr="西丘小学校近辺" tel="" fax=""
+  <marker type="G" ll="34.810575,135.494497" name="豊中 第20団" url="http://www.bs-t20.org/"
+      x0401="27" post="" addr="千里文化センター・コラボ近辺" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.827378,135.495316" name="豊中 第21団" url=""
+      x0401="27" post="" addr="世界救世教箕面センター・ＭＯＡ北大阪" tel="" fax=""
+      notes=""/>
+  <marker type="G" ll="34.763151,135.466451" name="豊中 第22団" url=""
+      x0401="27" post="" addr="豊中市立青年の家いぶき近辺" tel="" fax=""
       notes=""/>
   <marker type="D" ll="34.816338,135.568505" name="大阪連盟 三島地区" url="http://wp.bs-mishima.org/"
       x0401="27" post="" addr="茨木市,島本町,摂津市,高槻市" tel="" fax=""
