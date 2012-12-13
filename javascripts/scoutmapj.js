@@ -76,7 +76,7 @@ function createMarkers(file) {
               '<br />' + ((lo_post == '')? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
               '<br />TEL: ' + lo_m.attr('tel') +
               '<br />FAX: ' + lo_m.attr('fax') +
-              '<br />' + lo_m.attr('notes')
+              '<hr />' + lo_m.text()
       });
       google.maps.event.addListener(marker, 'click', function() {
           iw.open(map, marker);
