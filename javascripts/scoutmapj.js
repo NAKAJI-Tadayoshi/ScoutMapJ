@@ -17,7 +17,7 @@ $.extend({
 
 var map, geocoder, group;
 var markersArray = [];
-const d_zoom = 13;
+var d_zoom = 13;
 
 function initialize() {
   geocoder = new google.maps.Geocoder();
