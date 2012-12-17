@@ -22,11 +22,13 @@ var d_zoom = 13;
 function initialize() {
   geocoder = new google.maps.Geocoder();
   var lo_ll = new google.maps.LatLng(35.706979,139.754428);
+  var x0401 = '13';
   var ll = $.getUrlVar('center');
   if (ll) {
     ll = ll.split(',');
     if (ll[1]) {
       lo_ll = new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1]));
+      x0401 = null;
     } else {
       $('#addr').val(decodeURI(ll));
       codeAddress(false);
@@ -44,7 +46,7 @@ function initialize() {
 
   $.ajaxSetup({ cache: false });
   createMarkers('./databases/scoutareaj.xml');
-  reloadMarkers();
+  reloadMarkers(x0401);
 }
 
 function createMarkers(file) {
@@ -92,9 +94,9 @@ function createMarkers(file) {
   });
 }
 
-function reloadMarkers(pref) {
-  if (pref) {
-    var gr = prefgroup[pref];
+function reloadMarkers(x0401) {
+  if (x0401) {
+    var gr = prefgroup[x0401];
     if (gr != group) {
       group = gr;
       deleteOverlays();
