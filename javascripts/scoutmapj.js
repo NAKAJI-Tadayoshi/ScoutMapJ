@@ -57,7 +57,6 @@ function createMarkers(file) {
       ll = ll.split(',');
       var lo_ll = new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1]));
       var lo_name = lo_m.attr('name');
-      var lo_url = lo_m.attr('url');
       var lo_post = lo_m.attr('post');
       var lo_type = lo_m.attr('type');
       var lo_icon = 'http://maps.google.com/mapfiles/ms/icons/campground.png';
@@ -73,9 +72,8 @@ function createMarkers(file) {
           icon: lo_icon
       });
       var iw = new google.maps.InfoWindow({
-          content: ((lo_url == '')? '': '<a href=\"' + lo_url + '\">') +
-              '<b>' + lo_name + '</b>' + ((lo_url == '')? '': '</a>') +
-              '<br />' + ((lo_post == '')? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
+          content: '<b>' + name2a(lo_name, lo_m.attr('url')) + '</b>' +
+              '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
               '<br />TEL: ' + lo_m.attr('tel') +
               '<br />FAX: ' + lo_m.attr('fax') +
               '<hr />' + lo_m.text()
@@ -92,6 +90,11 @@ function createMarkers(file) {
       }
     });
   });
+}
+
+function name2a(name, url) {
+  if (!url) return name;
+  return '<a href=\"' + url + '\" target=\"_blank\">' + name + '</a>';
 }
 
 function reloadMarkers(x0401) {
@@ -172,6 +175,12 @@ function selectPref() {
   map.setZoom(d_zoom);
   map.setCenter(new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1])));
   reloadMarkers(ll[2]);
+}
+
+function toggleDesc() {
+  $('#description').toggle();
+  $('#roll').toggle();
+  $('#hang').toggle();
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);

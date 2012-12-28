@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
-      html, body, #map_canvas { margin: 0; padding: 0; height: 100%; }
-      fieldset { display: inline; padding: 0 2px; }
+      html, body, #map_canvas { margin: 0; padding: 0; height: 100% }
+      body { font-size: small }
+      div.header { text-align: center; font-size: medium }
+      div.footer { text-align: right; font-size: x-small }
+      fieldset { display: inline; padding: 0 2px }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false&language=ja"></script>
@@ -14,11 +17,9 @@
     <script src="./javascripts/scoutmapj.js"></script>
   </head>
   <body>
-    <div align="center">
+    <div class="header">
       <b>We are SCOUTS !!</b> ～ボーイスカウト活動地域検索～
-    </div>
-    <div>
-      <button onclick="$('#description').toggle()">説明・凡例の表示/非表示</button>
+      <button onclick="toggleDesc()" style="float:right"><span id="roll">▲</span><span id="hang" style="display:none">▼</span></button>
     </div>
     <div id="description">
       ボーイスカウトの主な活動拠点、および、よく利用するキャンプ場などを検索できます。<br />
@@ -36,7 +37,7 @@
     <div align="center">
       <fieldset>
         <label for="addr">場所や住所から検索</label>
-        <input id="addr" type="textbox" value="" onkeypress="enter2codeAddress(event)">
+        <input id="addr" type="textbox" value="" onkeypress="enter2codeAddress(event)"/>
         <button onclick="codeAddress(true)">Go!</button>
       </fieldset>
       <fieldset>
@@ -47,7 +48,7 @@
     </div>
     <div id="map_canvas"></div>
     <hr />
-    <div align="right">
+    <div class="footer">
       Copyright (C) 2012 NAKAJI Tadayoshi<br />
       このプロジェクトにご協力いただける方は <a href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ/wiki">プロジェクトWiki</a> をご覧ください。
       <address>このページについてのお問い合わせは <a href="mailto:nakaji.tadayoshi@gmail.com">中路 (大阪連盟 吹田第10団)</a> へお願いします。</address>
