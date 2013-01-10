@@ -18,6 +18,8 @@ $.extend({
 var map, geocoder, group;
 var markersArray = [];
 var d_zoom = 13;
+var icon_path = 'http://maps.google.com/mapfiles/ms/micons/';
+var icon_style = 'width=\"16\" height=\"16\" class=\"anchor\"';
 
 function initialize() {
   geocoder = new google.maps.Geocoder();
@@ -59,11 +61,11 @@ function createMarkers(file) {
       var lo_name = lo_m.attr('name');
       var lo_post = lo_m.attr('post');
       var lo_type = lo_m.attr('type');
-      var lo_icon = 'http://maps.google.com/mapfiles/ms/icons/campground.png';
+      var lo_icon = icon_path + 'campground.png';
       if (lo_type == 'A' || lo_type == 'C' || lo_type == 'D') {
-        lo_icon = 'http://maps.google.com/mapfiles/ms/icons/rangerstation.png';
+        lo_icon = icon_path + 'rangerstation.png';
       } else if (lo_type == 'F') {
-        lo_icon = 'http://maps.google.com/mapfiles/ms/icons/campfire.png';
+        lo_icon = icon_path + 'campfire.png';
       }
       var marker = new google.maps.Marker({
           position: lo_ll,
@@ -72,7 +74,7 @@ function createMarkers(file) {
           icon: lo_icon
       });
       var iw = new google.maps.InfoWindow({
-          content: '<b>' + name2a(lo_name, lo_m.attr('url')) + '</b>' +
+          content: '<span class=\"title\">' + name2a(lo_name, lo_m.attr('url')) + '</span>' + name2gs(lo_name, lo_type) +
               '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
               '<br />TEL: ' + lo_m.attr('tel') +
               '<br />FAX: ' + lo_m.attr('fax') +
@@ -95,6 +97,19 @@ function createMarkers(file) {
 function name2a(name, url) {
   if (!url) return name;
   return '<a href=\"' + url + '\" target=\"_blank\">' + name + '</a>';
+}
+
+function name2gs(name, type) {
+  var func = ((type == 'F')? 'gs': 'gsb') + '(\'' + name + '\')';
+  return '<img src=\"http://www.google.com/images/icons/product/search-32.png\" title=\"Google 検索\" ' + icon_style + ' onclick=\"' + func + '\">';
+}
+
+function gs(q) {
+  window.open('http://www.google.com/search?q=' + q);
+}
+
+function gsb(q) {
+  gs('ボーイスカウト+' + q);
 }
 
 function reloadMarkers(x0401) {
