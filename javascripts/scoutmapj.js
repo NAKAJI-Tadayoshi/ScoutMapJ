@@ -15,11 +15,17 @@ $.extend({
   }
 });
 
-var map, geocoder, group;
+var map, geocoder, db, c_x0401;
 var markersArray = [];
 var d_zoom = 13;
 var icon_path = 'http://maps.google.com/mapfiles/ms/micons/';
 var icon_style = 'width=\"16\" height=\"16\" class=\"anchor\"';
+var icons = {
+  "A":"rangerstation.png",
+  "C":"rangerstation.png",
+  "F":"campfire.png",
+  "G":"campground.png"
+};
 
 function initialize() {
   geocoder = new google.maps.Geocoder();
@@ -47,56 +53,72 @@ function initialize() {
   map = new google.maps.Map($('#map_canvas').get(0), mapOptions);
 
   $.ajaxSetup({ cache: false });
-  createMarkers('./databases/scoutareaj.xml');
-  reloadMarkers(x0401);
+  initializeMarkers('./databases/scoutareaj.xml', x0401);
 }
 
-function createMarkers(file) {
+function initializeMarkers(file, x0401) {
   $.get(file, {}, function(data) {
+    db = data;
     $(data).find('marker').each(function() {
       var lo_m = $(this);
-      var ll = lo_m.attr('ll');
-      ll = ll.split(',');
-      var lo_ll = new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1]));
-      var lo_name = lo_m.attr('name');
-      var lo_post = lo_m.attr('post');
       var lo_type = lo_m.attr('type');
-      var lo_icon = icon_path + 'campground.png';
-      if (lo_type == 'A' || lo_type == 'C' || lo_type == 'D') {
-        lo_icon = icon_path + 'rangerstation.png';
-      } else if (lo_type == 'F') {
-        lo_icon = icon_path + 'campfire.png';
-      }
-      var marker = new google.maps.Marker({
-          position: lo_ll,
-          map: map,
-          title: lo_name,
-          icon: lo_icon
-      });
-      var iw = new google.maps.InfoWindow({
-          content: '<span class=\"title\">' + name2a(lo_name, lo_m.attr('url')) + '</span>' + name2gs(lo_name, lo_type) +
-              '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
-              '<br />TEL: ' + lo_m.attr('tel') +
-              '<br />FAX: ' + lo_m.attr('fax') +
-              '<hr />' + lo_m.text()
-      });
-      google.maps.event.addListener(marker, 'click', function() {
-          iw.open(map, marker);
-      });
-      if (lo_type == 'A' || lo_type == 'C') {
-        var name = (lo_name.split(' '))[1];
-        var ll = lo_ll.toUrlValue() + ',' + lo_m.attr('x0401');
-        $('<option>').attr({ value: ll }).text(name).appendTo('#pref');
-      } else {
-        markersArray.push(marker);
-      }
+      if (lo_type.match(/[^AC]/)) return;
+
+      createMarker(lo_m, lo_type, true);
     });
+    reloadMarkers(x0401);
   });
+}
+
+function createMarkers(data, x0401) {
+  var group = new RegExp(prefgroup[x0401]);
+  $(data).find('marker').each(function() {
+    var lo_m = $(this);
+    if (!(lo_m.attr('x0401').match(group))) return;
+    var lo_type = lo_m.attr('type');
+    if (lo_type.match(/[AC]/)) return;
+
+    createMarker(lo_m, lo_type, false);
+  });
+}
+
+function createMarker(lo_m, lo_type, init) {
+  var ll = lo_m.attr('ll');
+  if (!ll) return false;
+  ll = ll.split(',');
+  var lo_ll = new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1]));
+  var lo_name = lo_m.attr('name');
+  var lo_post = lo_m.attr('post');
+  var lo_icon = icon_path + icons[lo_type];
+  var marker = new google.maps.Marker({
+      position: lo_ll,
+      map: map,
+      title: lo_name,
+      icon: lo_icon
+  });
+  var iw = new google.maps.InfoWindow({
+      content: '<span class=\"title\">' + name2a(lo_name, lo_m.attr('url')) + '</span>' + name2gs(lo_name, lo_type) +
+          '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
+          '<br />TEL: ' + lo_m.attr('tel') +
+          '<br />FAX: ' + lo_m.attr('fax') +
+          '<hr />' + lo_m.text()
+  });
+  google.maps.event.addListener(marker, 'click', function() {
+      iw.open(map, marker);
+  });
+
+  if (init) {
+    var name = (lo_name.split(' '))[1];
+    var ll = lo_ll.toUrlValue() + ',' + lo_m.attr('x0401');
+    $('<option>').attr({ value: ll }).text(name).appendTo('#pref');
+  } else {
+    markersArray.push(marker);
+  }
 }
 
 function name2a(name, url) {
   if (!url) return name;
-  return '<a href=\"' + url + '\" target=\"_blank\">' + name + '</a>';
+  return '<a href=\"' + url + '\">' + name + '</a>';
 }
 
 function name2gs(name, type) {
@@ -114,20 +136,19 @@ function gsb(q) {
 
 function reloadMarkers(x0401) {
   if (x0401) {
-    var gr = prefgroup[x0401];
-    if (gr != group) {
-      group = gr;
+    if (x0401 != c_x0401) {
+      c_x0401 = x0401;
       deleteOverlays();
-      createMarkers('./databases/scoutareaj' + group + '.xml');
+      createMarkers(db, x0401);
     }
   } else {
     geocoder.geocode( { 'location': map.getCenter() }, function(results, status) {
       if (status == google.maps.GeocoderStatus.OK) {
-        var gr = prefgroup[jisx0401[getPref(results[0].address_components)]];
-        if (gr != group) {
-          group = gr;
+        x0401 = jisx0401[getPref(results[0].address_components)];
+        if (x0401 != c_x0401) {
+          c_x0401 = x0401;
           deleteOverlays();
-          createMarkers('./databases/scoutareaj' + group + '.xml');
+          createMarkers(db, x0401);
         }
       }
     });
