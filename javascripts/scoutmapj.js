@@ -15,7 +15,7 @@ $.extend({
   }
 });
 
-var map, geocoder, db, c_x0401;
+var map, iw, geocoder, db, c_x0401;
 var markersArray = [];
 var d_zoom = 13;
 var icon_path = 'http://maps.google.com/mapfiles/ms/micons/';
@@ -51,6 +51,7 @@ function initialize() {
     streetViewControl: false
   };
   map = new google.maps.Map($('#map_canvas').get(0), mapOptions);
+  iw = new google.maps.InfoWindow();
 
   $.ajaxSetup({ cache: false });
   initializeMarkers('./databases/scoutareaj.xml', x0401);
@@ -71,6 +72,7 @@ function initializeMarkers(file, x0401) {
 }
 
 function createMarkers(data, x0401) {
+  if (!x0401) return;
   var group = new RegExp(prefgroup[x0401]);
   $(data).find('marker').each(function() {
     var lo_m = $(this);
@@ -88,7 +90,6 @@ function createMarker(lo_m, lo_type, init) {
   ll = ll.split(',');
   var lo_ll = new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1]));
   var lo_name = lo_m.attr('name');
-  var lo_post = lo_m.attr('post');
   var lo_icon = icon_path + icons[lo_type];
   var marker = new google.maps.Marker({
       position: lo_ll,
@@ -96,15 +97,8 @@ function createMarker(lo_m, lo_type, init) {
       title: lo_name,
       icon: lo_icon
   });
-  var iw = new google.maps.InfoWindow({
-      content: '<span class=\"title\">' + name2a(lo_name, lo_m.attr('url')) + '</span>' + name2gs(lo_name, lo_type) +
-          '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
-          '<br />TEL: ' + lo_m.attr('tel') +
-          '<br />FAX: ' + lo_m.attr('fax') +
-          '<hr />' + lo_m.text()
-  });
   google.maps.event.addListener(marker, 'click', function() {
-      iw.open(map, marker);
+      openInfo(marker);
   });
 
   if (init) {
@@ -113,6 +107,32 @@ function createMarker(lo_m, lo_type, init) {
     $('<option>').attr({ value: ll }).text(name).appendTo('#pref');
   } else {
     markersArray.push(marker);
+  }
+}
+
+function openInfo(m, c) {
+  if (c) {
+    iw.setContent(c);
+    iw.open(map, m);
+  } else {
+    var pos = m.getPosition().toUrlValue();
+    var data = db;
+    $(data).find('marker').each(function() {
+      var lo_m = $(this);
+      var ll = lo_m.attr('ll');
+      if (ll != pos) return;
+      var lo_type = lo_m.attr('type');
+      var lo_name = lo_m.attr('name');
+      var lo_post = lo_m.attr('post');
+      iw.setContent(
+          '<span class=\"title\">' + name2a(lo_name, lo_m.attr('url')) + '</span>' + name2gs(lo_name, lo_type) +
+          '<br />' + ((!lo_post)? '': '〒' + lo_post + ' ') + lo_m.attr('addr') +
+          '<br />TEL: ' + lo_m.attr('tel') +
+          '<br />FAX: ' + lo_m.attr('fax') +
+          '<hr />' + lo_m.text()
+      );
+      iw.open(map, m);
+    });
   }
 }
 
@@ -178,14 +198,13 @@ function codeAddress(info) {
             position: ll,
             map: map
         });
-        var iw = new google.maps.InfoWindow({
-            content: '<b>' + results[0].formatted_address.replace(/^日本, /, '') + '</b>' +
-                '<br />緯度,経度: ' + ll.toUrlValue()
-        });
+        var content =
+            '<b>' + results[0].formatted_address.replace(/^日本, /, '') + '</b>' +
+            '<br />緯度,経度: ' + ll.toUrlValue();
         google.maps.event.addListener(marker, 'click', function() {
-          iw.open(map, marker);
+          openInfo(marker, content);
         });
-        iw.open(map, marker);
+        openInfo(marker, content);
       }
     } else {
       alert('緯度,経度に変換できませんでした: ' + status);

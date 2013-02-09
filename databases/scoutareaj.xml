@@ -4037,7 +4037,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.696861,139.753830" name="千代田 第10団" url="http://www.senshu-u.ac.jp/campuslife/sports_info/clubs/rover_scout/rover_scout_index.html"
+  <marker type="G" ll="35.696861,139.75383" name="千代田 第10団" url="http://www.senshu-u.ac.jp/campuslife/sports_info/clubs/rover_scout/rover_scout_index.html"
       x0401="13" post="" addr="専修大学" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4047,7 +4047,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.672840,139.768005" name="中央 第1団" url=""
+  <marker type="G" ll="35.67284,139.768005" name="中央 第1団" url=""
       x0401="13" post="" addr="金光教銀座教会" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4107,7 +4107,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.660370,139.744461" name="港 第14団" url="http://minato14dan.sakura.ne.jp/"
+  <marker type="G" ll="35.66037,139.744461" name="港 第14団" url="http://minato14dan.sakura.ne.jp/"
       x0401="13" post="" addr="聖アンデレ教会" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4152,7 +4152,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.703880,139.721893" name="新宿 第9団" url=""
+  <marker type="G" ll="35.70388,139.721893" name="新宿 第9団" url=""
       x0401="13" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4277,13 +4277,13 @@
     BVS/CS/BS/VS/RS
     ]]>
   </marker>
-  <marker type="G" ll="35.772060,139.842438" name="足立 第5団" url=""
+  <marker type="G" ll="35.77206,139.842438" name="足立 第5団" url=""
       x0401="13" post="120-0003" addr="足立区東和4-3-18 亀有カトリック教会" tel="" fax="">
     <![CDATA[
     BVS/CS/BS/VS/RS
     ]]>
   </marker>
-  <marker type="G" ll="35.775620,139.760529" name="足立 第6団" url="http://www.facebook.com/BoisukautoDongJingLianMengsakuraDeQuZuLiDi6tuan/"
+  <marker type="G" ll="35.77562,139.760529" name="足立 第6団" url="http://www.facebook.com/BoisukautoDongJingLianMengsakuraDeQuZuLiDi6tuan/"
       x0401="13" post="120-0872" addr="足立区江北3-40-27 カトリック足立教会" tel="" fax="">
     <![CDATA[
     BVS/CS/BS/VS/RS
@@ -4512,7 +4512,7 @@
     BVS/CS/BS/VS/RS
     ]]>
   </marker>
-  <marker type="G" ll="35.622620,139.716370" name="品川 第8団" url="http://shina8.com/"
+  <marker type="G" ll="35.62262,139.71637" name="品川 第8団" url="http://shina8.com/"
       x0401="13" post="" addr="五反田文化センター周辺など" tel="" fax="">
     <![CDATA[
     BVS/CS/BS/VS/RS
@@ -5899,7 +5899,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="36.473610,136.505402" name="川北 第1団" url=""
+  <marker type="G" ll="36.47361,136.505402" name="川北 第1団" url=""
       x0401="17" post="" addr="川北町全域" tel="076-277-0661" fax="">
     <![CDATA[
     ]]>
@@ -8694,7 +8694,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="34.958942,135.771500" name="京都 第25団" url="http://kbs25.okoshi-yasu.com/"
+  <marker type="G" ll="34.958942,135.7715" name="京都 第25団" url="http://kbs25.okoshi-yasu.com/"
       x0401="26" post="" addr="伏見区深草直違橋5-312 カトリック伏見教会" tel="" fax="">
     <![CDATA[
     ]]>
@@ -8881,10 +8881,7 @@
     <a href="http://www.eonet.ne.jp/~bs-amagasaki/">尼崎地区</a> (尼崎市)<br />
     <a href="http://bs-hankita.jimdo.com/">阪神北地区</a> (伊丹市, 川西市, 川辺郡猪名川町, 宝塚市, 三田市, 篠山市)<br />
     <a href="http://www.bs-hanshin-sakura.org/">阪神さくら地区</a> (西宮市, 芦屋市)<br />
-    神戸東灘地区 (東灘区)<br />
-    神戸地区 (灘区, 中央区)<br />
-    神戸中地区 (兵庫区, 長田区, 須磨区)<br />
-    神戸北地区 (北区, 西区の一部)<br />
+    <a href="http://bs-kobe.isf.jp/">神戸地区</a> (東灘区, 灘区, 中央区, 兵庫区, 長田区, 須磨区, 北区, 西区の一部)<br />
     <a href="http://bskobe-tarumi.sakura.ne.jp/">神戸垂水地区</a> (垂水区, 西区の一部)<br />
     はりま地区 (明石市, 加古川市, 高砂市, 加古郡播磨町・稲美町, 三木市, 西脇市, 加西市, 小野市, 加東市, 多可町, 丹波市)<br />
     <a href="http://www.bs-hyogo.gr.jp/contact/himeji/index.html">姫路地区</a> (姫路市)<br />
@@ -8894,73 +8891,75 @@
     ]]>
   </marker>
   <!-- 尼崎地区 -->
-  <marker type="G" ll="" name="尼崎 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.718224,135.40454" name="尼崎 第1団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs1.html"
+      x0401="28" post="" addr="竹谷・難波・梅香・北難波・明城・成徳・大庄・若葉・成文・西" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第3団" url="http://homepage3.nifty.com/ama3/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.737961,135.399121" name="尼崎 第3団" url="http://homepage3.nifty.com/ama3/"
+      x0401="28" post="" addr="水堂・立花南・立花・七松" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第7団" url="http://sky.geocities.jp/yasuoosa_ama7/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.718414,135.438767" name="尼崎 第7団" url="http://sky.geocities.jp/yasuoosa_ama7/"
+      x0401="28" post="" addr="杭瀬・長洲・清和・浦風・潮・金楽寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第8団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.752002,135.448205" name="尼崎 第8団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs8.html"
+      x0401="28" post="" addr="園和・園田東・小園・園和北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第10団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.73552,135.416086" name="尼崎 第10団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs10.html"
+      x0401="28" post="" addr="名和・潮" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第13団" url="http://outdoor.geocities.jp/bs_amagasaki13/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.754934,135.387572" name="尼崎 第13団" url="http://outdoor.geocities.jp/bs_amagasaki13/"
+      x0401="28" post="" addr="武庫東・武庫庄・武庫の里・武庫・武庫南・武庫北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第14団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.759349,135.410839" name="尼崎 第14団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs14.html"
+      x0401="28" post="" addr="塚口" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="尼崎 第15団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
+    <b>13団へ統合</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第17団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.768025,135.435848" name="尼崎 第17団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs17.html"
+      x0401="28" post="661-0951" addr="尼崎市田能3-23-1 覚円寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第20団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.726926,135.402882" name="尼崎 第20団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs20.html"
+      x0401="28" post="" addr="難波・北難波・梅香・七松・大庄" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第21団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.749802,135.398604" name="尼崎 第21団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs21.html"
+      x0401="28" post="" addr="立花西・立花・立花北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第24団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.758576,135.404993" name="尼崎 第24団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs24.html"
+      x0401="28" post="" addr="尼崎北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第25団" url="http://www.eonet.ne.jp/~ama-25/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.744644,135.404678" name="尼崎 第25団" url="http://www.eonet.ne.jp/~ama-25/"
+      x0401="28" post="" addr="尼崎市立青少年センター" tel="" fax="">
     <![CDATA[
+    ハンディキャップ児童対象
     ]]>
   </marker>
-  <marker type="G" ll="" name="尼崎 第26団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.742168,135.432709" name="尼崎 第26団" url="http://www.eonet.ne.jp/~bs-amagasaki/bs26.html"
+      x0401="28" post="" addr="下坂部・浜・小園・潮・園田南・上坂部・小園" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -8968,50 +8967,51 @@
   <marker type="G" ll="" name="伊丹 第1団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
+    <b>2団へ統合</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="伊丹 第2団" url="https://sites.google.com/site/bsitami2/"
+  <marker type="G" ll="34.773239,135.390804" name="伊丹 第2団" url="https://sites.google.com/site/bsitami2/"
+      x0401="28" post="" addr="昆陽里・摂陽・稲野・伊丹・有岡" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.772971,135.407155" name="伊丹 第3団" url="http://www1.ocn.ne.jp/~bsitami3/"
+      x0401="28" post="" addr="伊丹市鈴原町9-72 スカウトハウス" tel="072-775-1336" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.799696,135.392917" name="伊丹 第5団" url="http://bsitami5.jimdo.com/"
+      x0401="28" post="" addr="伊丹市鴻池4-4-58 スカウトハウス" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.792164,135.412346" name="伊丹 第10団" url="http://bsitami10.jimdo.com/"
+      x0401="28" post="" addr="緑丘・伊丹・瑞穂" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.786198,135.378281" name="伊丹 第11団" url=""
+      x0401="28" post="" addr="池尻・桜台・鴻池・天神川" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.765043,135.399251" name="伊丹 第12団" url="http://www.boyscout-itami12.org/"
+      x0401="28" post="" addr="伊丹南・笹原" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.830135,135.417278" name="川西 第1団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="伊丹 第3団" url="http://www1.ocn.ne.jp/~bsitami3/"
+  <marker type="G" ll="" name="川西 第3団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="伊丹 第5団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="伊丹 第10団" url="http://bsitami10.jimdo.com/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="伊丹 第11団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="伊丹 第12団" url="http://www.boyscout-itami12.org/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="川西 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="川西 第3団" url="http://www.eonet.ne.jp/~fuutapapa/boyscout/boyscout.htm"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="川西 第4団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.89214,135.408686" name="川西 第4団" url="http://bs-kawanishi4.blogspot.jp/"
+      x0401="28" post="" addr="東谷公民館" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9020,222 +9020,220 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="川西 第6団" url="http://www.d3.dion.ne.jp/~katumina/kawanishi6/"
+  <marker type="G" ll="34.821285,135.411001" name="川西 第6団" url="http://www.d3.dion.ne.jp/~katumina/kawanishi6/"
+      x0401="28" post="" addr="川西市栄根2-23-14 浄福寺" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="" name="川西 第7団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="川西 第7団" url="http://www.hi-ho.ne.jp/hiderin/7dan/"
+  <marker type="G" ll="34.895037,135.376162" name="猪名川 第1団" url=""
+      x0401="28" post="" addr="猪名川町全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.81058,135.340777" name="宝塚 第1団" url="http://tbs1.fc2web.com/"
+      x0401="28" post="" addr="宝塚・すみれガ丘・美座・売布・小浜・安倉北・安倉・西谷・生瀬・東山台" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.790232,135.353415" name="宝塚 第2団" url=""
+      x0401="28" post="" addr="西公民館近辺" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.815896,135.364805" name="宝塚 第5団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="猪名川 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.799634,135.352735" name="宝塚 第6団" url="http://www.geocities.jp/takarazuka_6/"
+      x0401="28" post="" addr="中央公民館近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="宝塚 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.818005,135.390272" name="宝塚 第8団" url="http://www5.hp-ez.com/hp/takaraduka8/"
+      x0401="28" post="" addr="東公民館近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="宝塚 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.889554,135.225309" name="三田 第1団" url="http://outdoor.geocities.jp/boyscout_sanda/"
+      x0401="28" post="" addr="三田市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="宝塚 第5団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="宝塚 第6団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="宝塚 第8団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="三田 第1団" url="http://outdoor.geocities.jp/boyscout_sanda/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="篠山 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.075661,135.219051" name="篠山 第1団" url="http://blog.livedoor.jp/sasayamaboy/"
+      x0401="28" post="" addr="篠山市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 阪神さくら地区 -->
-  <marker type="G" ll="" name="西宮 第1団" url="http://nisinomiya1dan.com/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.751495,135.363968" name="西宮 第1団" url="http://nisinomiya1dan.com/"
+      x0401="28" post="" addr="高木・樋ノ口" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.731814,135.365404" name="西宮 第2団" url="http://hccweb5.bai.ne.jp/bs_nishinomiya2/"
+      x0401="28" post="" addr="春風・鳴尾" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第3団,第13団" url="http://shukugawa-scout.net/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.758556,135.322092" name="西宮 第3団" url="http://shukugawa-scout.net/"
+      x0401="28" post="662-0092" addr="西宮市甑岩町5-4 越木岩神社" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第6団" url="http://www.geocities.jp/nishinomiya6_cub/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.7378,135.372762" name="西宮 第6団" url="http://www.geocities.jp/nishinomiya6_cub/"
+      x0401="28" post="" addr="上甲子園" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第7団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.731008,135.351364" name="西宮 第7団" url=""
+      x0401="28" post="" addr="津門・今津" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第9団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.713435,135.372374" name="西宮 第9団" url="http://9dan.seesaa.net/"
+      x0401="28" post="" addr="高須・高須西・鳴尾・鳴尾東・甲子園浜" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第10団" url="http://cvnweb.bai.ne.jp/~macky/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.734444,135.32916" name="西宮 第10団" url="http://nishinomiya-bs10.sakura.ne.jp/"
+      x0401="28" post="" addr="甲陽園・安井・香櫨園・浜脇" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第11団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.768577,135.353444" name="西宮 第11団" url="http://nmybs11.ninja-x.jp/"
+      x0401="28" post="" addr="甲東・上ヶ原・上ヶ原南" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第12団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.728081,135.342131" name="西宮 第12団" url="http://www.geocities.jp/satoru_tomo/"
+      x0401="28" post="" addr="用海" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第20団" url="http://troop20.naturum.ne.jp/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.757958,135.320113" name="西宮 第13団" url="http://shukugawa-scout.net/"
+      x0401="28" post="" addr="北夙川・苦楽園・神原" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第21団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.717676,135.3567" name="西宮 第20団" url="http://troop20vol2.naturum.ne.jp/"
+      x0401="28" post="" addr="南甲子園" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第22団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.769783,135.369794" name="西宮 第21団" url="http://nishinomiya21.web.fc2.com/"
+      x0401="28" post="" addr="段上・段上西" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第25団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.724949,135.380505" name="西宮 第22団" url="http://bs-nishinomiya22.com/"
+      x0401="28" post="" addr="小松・鳴尾北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="西宮 第27団" url="http://www.bs-nishinomiya27.com/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.747659,135.349172" name="西宮 第25団" url=""
+      x0401="28" post="" addr="広田・平木" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="芦屋 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.743922,135.365926" name="西宮 第27団" url="http://www.bs-nishinomiya27.com/"
+      x0401="28" post="" addr="瓦木・瓦林・深津" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="芦屋 第3団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.736396,135.300585" name="芦屋 第1団" url="http://www.hyogo.zaq.jp/ashiya1/"
+      x0401="28" post="" addr="国道2号北側" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <!-- 神戸東灘地区 -->
-  <marker type="G" ll="" name="神戸 第31団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第33団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第47団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第54団" url="http://www.bs-kobe54.jp/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第55団" url="http://bs-kobe55.isf.jp/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第58団" url="http://bs-kobe58.isf.jp/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.731677,135.315961" name="芦屋 第3団" url=""
+      x0401="28" post="" addr="国道2号南側" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 神戸地区 -->
-  <marker type="G" ll="" name="神戸 第8団" url="http://www.geocities.jp/bskobe008/"
+  <marker type="G" ll="34.718973,135.275071" name="神戸 第31団" url="http://bs-kobe.isf.jp/introduction/kobe31/info.html"
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第15団" url="http://hwm5.gyao.ne.jp/seed/kobe15index.htm"
+  <marker type="G" ll="34.732973,135.274592" name="神戸 第33団,第54団" url="http://www.bs-kobe54.jp/"
+      x0401="28" post="" addr="岡本八幡神社 スカウトハウス" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.723927,135.255103" name="神戸 第47団" url="http://bs-kobe.isf.jp/introduction/kobe47/info.html"
+      x0401="28" post="658-0048" addr="神戸市東灘区御影郡家2-9-27 弓弦羽神社" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.728286,135.289045" name="神戸 第55団" url="http://bs-kobe55.isf.jp/"
+      x0401="28" post="" addr="本山第三・東灘・本山南・本庄" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.719097,135.26152" name="神戸 第58団" url="http://bs-kobe58.isf.jp/"
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第17団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.719956,135.235736" name="神戸 第8団" url="http://www.geocities.jp/bskobe008/"
+      x0401="28" post="657-0051" addr="神戸市灘区八幡町2-12-23 梅仙寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第18団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.709739,135.195539" name="神戸 第15団" url="http://hwm5.gyao.ne.jp/seed/kobe15index.htm"
+      x0401="28" post="651-0058" addr="神戸市中央区葺合町布引山2-3 徳光院" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第45団" url="http://www.geocities.jp/boyscoutkobe45/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.695508,135.180372" name="神戸 第17団" url="http://bs-kobe.isf.jp/introduction/kobe17/info.html"
+      x0401="28" post="" addr="旧生田区" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第78団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.673973,135.208176" name="神戸 第18団" url="http://bs-kobe.isf.jp/introduction/kobe18/info.html"
+      x0401="28" post="" addr="港島" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <!-- 神戸中地区 -->
-  <marker type="G" ll="" name="神戸 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.733433,135.236155" name="神戸 第45団" url="http://www.geocities.jp/boyscoutkobe45/"
+      x0401="28" post="" addr="鶴甲・美野丘" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第4団" url="http://www.bskobe.com/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.721458,135.226652" name="神戸 第78団" url="http://bs-kobe.isf.jp/introduction/kobe78/info.html"
+      x0401="28" post="" addr="神戸市灘区篠原本町4-6-28 末日聖徒イエスキリスト教会" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第6団" url="http://www004.upp.so-net.ne.jp/kobe6/bs-6.html"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.668459,135.164341" name="神戸 第1団" url="http://bs-kobe.isf.jp/introduction/kobe01/info.html"
+      x0401="28" post="" addr="兵庫区南部" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第10団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.655583,135.143936" name="神戸 第4団" url="http://bs-kobe.isf.jp/introduction/kobe04/info.html"
+      x0401="28" post="" addr="駒ヶ林・真陽・若宮・西須磨" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第23団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.674227,135.178426" name="神戸 第6団" url="http://www004.upp.so-net.ne.jp/kobe6/bs-6.html"
+      x0401="28" post="" addr="兵庫区" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.67262,135.146301" name="神戸 第10団" url="http://bs-kobe.isf.jp/introduction/kobe10/info.html"
+      x0401="28" post="653-0812" addr="神戸市長田区長田町4-2-8 金光教長田教会" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.651308,135.124637" name="神戸 第23団" url="http://bs-kobe.isf.jp/introduction/kobe23/info.html"
+      x0401="28" post="654-0064" addr="神戸市須磨区北町1-4-28 浄徳寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9244,70 +9242,71 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第77団" url=""
+  <marker type="G" ll="34.661055,135.129077" name="神戸 第77団" url="http://bs-kobe.isf.jp/introduction/kobe77/info.html"
+      x0401="28" post="" addr="" tel="" fax="">
+    <![CDATA[
+    ハンディキャップ児童対象
+    ]]>
+  </marker>
+  <marker type="G" ll="34.72367,135.146136" name="神戸 第16団" url="http://bs-kobe.isf.jp/introduction/kobe16/info.html"
+      x0401="28" post="" addr="鈴蘭台" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.773204,135.199308" name="神戸 第38団" url="http://bs-kobe.isf.jp/introduction/kobe38/info.html"
+      x0401="28" post="" addr="大池・花山・谷上・唐櫃地区" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.750305,135.148164" name="神戸 第53団" url="http://bs-kobe.isf.jp/introduction/kobe53/info.html"
+      x0401="28" post="" addr="桂木・泉台・甲緑・広陵" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.725804,135.134351" name="神戸 第57団" url="http://bskobe57.blog.fc2.com/"
+      x0401="28" post="" addr="北五葉・南五葉・君影・星和台" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.816499,135.218994" name="神戸 第60団" url="http://www42.tok2.com/home/kobe60dan/index.htm"
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <!-- 神戸北地区 -->
-  <marker type="G" ll="" name="神戸 第16団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第38団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第53団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第57団" url="http://bskobe57.blog.fc2.com/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第60団" url="http://www42.tok2.com/home/kobe60dan/index.htm"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="神戸 第65団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.698049,135.125483" name="神戸 第65団" url="http://bs-kobe.isf.jp/introduction/kobe65/info.html"
+      x0401="28" post="" addr="ひよどり台・ ひよどり北・ひよどり台南" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 神戸垂水地区 -->
-  <marker type="G" ll="" name="神戸 第2団" url="http://www.kobe2.jp/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.636653,135.03612" name="神戸 第2団" url="http://www.kobe2.jp/"
+      x0401="28" post="" addr="舞子地域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第26団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.637768,135.055359" name="神戸 第26団" url=""
+      x0401="28" post="" addr="スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="神戸 第27団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
+    <b>休団中</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第28団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.642753,135.075672" name="神戸 第28団" url="http://boysc-kobe28.jugem.jp/"
+      x0401="28" post="" addr="乙木・東垂水・塩屋・塩屋北・つつじヶ丘・下畑台" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第37団" url="http://www14.ocn.ne.jp/~kobe37/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.657571,135.062282" name="神戸 第37団" url="http://www14.ocn.ne.jp/~kobe37/"
+      x0401="28" post="" addr="神戸市垂水区学が丘5-1-1 日本聖公会聖ミカエル教会垂水チャペルセンター" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第39団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.641356,135.032631" name="神戸 第39団" url="http://www.seimarianosono.net/課外教室-お母さんの集まり/"
+      x0401="28" post="" addr="神戸市垂水区舞子台8-20-2 聖マリアの園幼稚園" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9316,293 +9315,297 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第43団" url="http://www.geocities.jp/naitoaki/"
+  <marker type="G" ll="" name="神戸 第43団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第52団" url="http://homepage3.nifty.com/TERRA_1955_KOBE/"
+  <marker type="G" ll="34.633043,135.060835" name="神戸 第52団" url="http://homepage3.nifty.com/TERRA_1955_KOBE/"
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第70団" url="http://bskobe70.org/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.723978,134.980688" name="神戸 第70団" url="http://bskobe70.org/"
+      x0401="28" post="" addr="美賀多台・竹の台・春日台・樫野台・平野・神出・岩岡・宮下・竜が岡・玉津" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第73団" url="http://sites.google.com/site/bskobe73/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.682999,135.013454" name="神戸 第73団" url="http://sites.google.com/site/bskobe73/"
+      x0401="28" post="" addr="伊川谷・玉津・高津橋・有瀬・出合・長坂・枝吉・井吹" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神戸 第74団" url="http://www.hi-net.zaq.ne.jp/kobe_dai74dan/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.714233,135.020035" name="神戸 第74団" url="http://www.hi-net.zaq.ne.jp/kobe_dai74dan/"
+      x0401="28" post="" addr="学園都市・西神南・糀台・狩場台・櫨谷" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- はりま地区 -->
-  <marker type="G" ll="" name="明石 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.669344,134.961646" name="明石 第2団" url=""
+      x0401="28" post="" addr="明石・朝霧・岩岡・魚住・王子・大久保・大久保南・貴崎・沢池・清水・大観・高丘西・高丘東・鳥羽・中崎・錦が丘・花園・林・人丸・藤江・松が丘・山手・和坂" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="明石 第5団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.686288,134.900453" name="明石 第5団" url=""
+      x0401="28" post="" addr="江井島・谷八木・錦浦・二見・二見北・二見西" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="稲美 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.749555,134.922645" name="稲美 第1団" url=""
+      x0401="28" post="" addr="加古・天満・天満東・天満南・母里" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加古川 第1団" url="http://kako1bvscsbsvs.web.fc2.com/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.806614,134.85379" name="加古川 第1団" url="http://kako1bvscsbsvs.web.fc2.com/"
+      x0401="28" post="" addr="上荘・川西・志方・志方西・志方東・平荘・西神吉・東神吉・東神吉南・尾上・蓮池・浜の宮・別府・別府西・野口南・加古川・鳩里・若宮" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加古川 第2団" url="http://www.geocities.jp/bs_kakogawa2/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.752286,134.832586" name="加古川 第2団" url="http://www.geocities.jp/bs_kakogawa2/"
+      x0401="28" post="675-0031" addr="加古川市加古川町北在家424 鶴林寺 (野口南・野口・野口北)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="加古川 第3団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+      x0401="28" post="" addr="尾上・蓮池・浜の宮・別府・別府西・野口南" tel="" fax="">
+    <![CDATA[
+    <b>1団へ統合</b>
+    ]]>
+  </marker>
+  <marker type="G" ll="34.767844,134.839416" name="加古川 第4団" url=""
+      x0401="28" post="" addr="氷丘・氷丘南" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加古川 第4団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="加古川 第5団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.745852,134.869039" name="加古川 第5団" url=""
+      x0401="28" post="" addr="平岡・平岡北・平岡南" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="加古川 第7団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
+    <b>休団中</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="加古川 第8団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.790919,134.878979" name="加古川 第8団" url=""
+      x0401="28" post="" addr="神野・八幡・陵北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="加古川 第9団" url=""
+      x0401="28" post="" addr="加古川・鳩里・若宮" tel="" fax="">
+    <![CDATA[
+    <b>1団へ統合</b>
+    ]]>
+  </marker>
+  <marker type="G" ll="34.751576,134.883046" name="加古川 第10団" url="http://bskakogawa10.at-ninja.jp/"
+      x0401="28" post="" addr="団野営場・土山駅周辺(平岡東・二見・二見北)" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.766201,134.790442" name="高砂 第2団" url=""
+      x0401="28" post="" addr="高砂市全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.853193,134.931376" name="小野 第1団" url="http://homepage2.nifty.com/CS_ONO12/"
+      x0401="28" post="" addr="小野市全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="35.127245,135.077299" name="柏原 第1団" url=""
+      x0401="28" post="" addr="柏原町全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.921951,134.819061" name="加西 第1団" url="http://www.bs-kasai1.skr.jp/"
+      x0401="28" post="" addr="加西市全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.937799,134.944967" name="加東 第5団" url=""
+      x0401="28" post="" addr="加東市滝野全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="35.022578,134.992428" name="黒田庄 第1団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加古川 第10団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.050335,134.923275" name="多可 第1団" url=""
+      x0401="28" post="" addr="多可全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="高砂 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.973154,134.971089" name="西脇 第2団" url=""
+      x0401="28" post="" addr="野村町公民館近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="小野 第1団" url="http://homepage2.nifty.com/CS_ONO12/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.006124,135.002074" name="西脇 第3団" url=""
+      x0401="28" post="" addr="青年の家近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="柏原 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.97469,134.917352" name="西脇 第6団" url=""
+      x0401="28" post="" addr="芳田小学校近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加西 第1団" url="http://www.page.sannet.ne.jp/ktasa/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.796944,134.990197" name="三木 第2団" url="http://www.eonet.ne.jp/~bs-miki2/"
+      x0401="28" post="" addr="三木市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="加東 第5団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="黒田庄 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="多可 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="西脇 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="西脇 第3団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="西脇 第6団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="三木 第2団" url="http://www.eonet.ne.jp/~bs-miki2/"
-      x0401="28" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="社 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.917348,134.97329" name="社 第1団" url="http://bsyashiro1dan.web.fc2.com/"
+      x0401="28" post="" addr="加東市社全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 姫路地区 -->
-  <marker type="G" ll="" name="姫路 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.799798,134.674849" name="姫路 第1団" url=""
+      x0401="28" post="" addr="飾磨" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.786991,134.587942" name="姫路 第2団" url=""
+      x0401="28" post="" addr="網干・余部・御津" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第3団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.827642,134.690849" name="姫路 第3団" url=""
+      x0401="28" post="" addr="姫路中央" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第4団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.875543,134.732784" name="姫路 第4団" url=""
+      x0401="28" post="" addr="スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第6団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.797756,134.628142" name="姫路 第6団" url=""
+      x0401="28" post="" addr="大津・広畑・八幡・英賀保" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第7団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.803019,134.617587" name="姫路 第7団" url=""
+      x0401="28" post="671-1152" addr="姫路市広畑区小松町4-36 聖ミカエル広畑幼稚園" tel="079-236-3397" fax="079-236-6551">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第8団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.81482,134.597934" name="姫路 第8団" url=""
+      x0401="28" post="" addr="勝原" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第11団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.784147,134.721886" name="姫路 第11団" url="http://blog.goo.ne.jp/ebitakao/"
+      x0401="28" post="" addr="妻鹿・白浜・的形・大塩・糸引" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第12団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.856139,134.711301" name="姫路 第12団" url="http://bshimeji12.blog.fc2.com/"
+      x0401="28" post="" addr="増位・広峰・水上・野里・城北" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第16団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.854458,134.674759" name="姫路 第16団" url=""
+      x0401="28" post="" addr="安室・城西・高岡・書写" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第18団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.973021,134.684863" name="姫路 第18団" url="http://hime18.exblog.jp/"
+      x0401="28" post="" addr="夢前・安富・林田" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="姫路 第20団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.925116,134.728492" name="姫路 第20団" url="http://himezi20.blog.fc2.com/"
+      x0401="28" post="" addr="香寺・豊富・山田" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 西播地区 -->
-  <marker type="G" ll="" name="相生 第4団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.803601,134.468066" name="相生 第4団" url=""
+      x0401="28" post="" addr="相生市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="赤穂 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.754956,134.390284" name="赤穂 第1団" url=""
+      x0401="28" post="" addr="赤穂市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="揖保 第1団" url=""
       x0401="28" post="" addr="" tel="" fax="">
     <![CDATA[
+    <b>休団中</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="上郡 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.873563,134.356098" name="上郡 第1団" url=""
+      x0401="28" post="" addr="上郡町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="神崎 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.067996,134.771025" name="神崎 第1団" url=""
+      x0401="28" post="" addr="神崎郡全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="宍粟 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.996457,134.559593" name="宍粟 第1団" url="http://outdoor.geocities.jp/shiso_1/"
+      x0401="28" post="" addr="粟市山崎町須賀沢445 願寿寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="宍粟 第3団" url="http://shiso3.blog.ocn.ne.jp/rokuroshi/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.102419,134.582847" name="宍粟 第3団" url="http://shiso3.blog.ocn.ne.jp/rokuroshi/"
+      x0401="28" post="" addr="一宮町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="太子 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.833583,134.577824" name="太子 第1団" url=""
+      x0401="28" post="" addr="太子町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="龍野 第1団" url="http://www.geocities.jp/boyscouttatsuno/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.857863,134.54536" name="龍野 第1団" url="http://www.geocities.jp/boyscouttatsuno/"
+      x0401="28" post="" addr="たつの市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 但馬地区 -->
-  <marker type="G" ll="" name="豊岡 第2団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.544473,134.820184" name="豊岡 第2団" url=""
+      x0401="28" post="" addr="豊岡市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="日高 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.470272,134.770892" name="日高 第1団" url="http://www.facebook.com/bs.hidaka/"
+      x0401="28" post="" addr="日高町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="村岡 第1団" url="http://www5.ocn.ne.jp/~bsmura/"
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.470736,134.594825" name="村岡 第1団" url="http://bs-muraoka.just-size.net/"
+      x0401="28" post="" addr="法雲寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="養父 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.37959,134.776626" name="養父 第1団" url=""
+      x0401="28" post="" addr="養父町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="八鹿 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="35.404243,134.767774" name="八鹿 第1団" url=""
+      x0401="28" post="" addr="八鹿町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 淡路地区 -->
-  <marker type="G" ll="" name="洲本 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.342426,134.89562" name="洲本 第1団" url=""
+      x0401="28" post="" addr="洲本市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="三原 第1団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.223254,134.7386" name="三原 第1団" url=""
+      x0401="28" post="" addr="神宮寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9611,8 +9614,8 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="三原 第4団" url=""
-      x0401="28" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.325064,134.734748" name="三原 第4団" url="http://blogs.yahoo.co.jp/lifyn121/"
+      x0401="28" post="" addr="西淡公民館近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9633,23 +9636,25 @@
     ]]>
   </marker>
   <!-- わかくさ地区 -->
-  <marker type="G" ll="" name="奈良 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.684931,135.82239" name="奈良 第2団" url="http://www1.ocn.ne.jp/~snowbox/"
+      x0401="29" post="630-8247" addr="奈良市油阪町434 西方寺" tel="0742-23-3755" fax="">
+    <![CDATA[
+    大宮校区
+    ]]>
+  </marker>
+  <marker type="G" ll="34.685512,135.829798" name="奈良 第4団" url="http://hello.ap.teacup.com/bs-nara4/"
+      x0401="29" post="630-8213" addr="奈良市登大路町36-1 カトリック奈良教会" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第4団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.643742,135.828748" name="奈良 第6団" url=""
+      x0401="29" post="" addr="南部公民館近辺" tel="" fax="">
     <![CDATA[
+    都南中学校区
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第6団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="奈良 第8団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.671781,135.783591" name="奈良 第8団" url=""
+      x0401="29" post="" addr="スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9659,176 +9664,179 @@
     <b>休団中</b>
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第12団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.68106,135.823335" name="奈良 第12団" url="http://www.eonet.ne.jp/~nara12/"
+      x0401="29" post="" addr="奈良市下三条町19 本妙寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第15団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.68148,135.848313" name="奈良 第15団" url="http://kasugataishaikuseikai.web.fc2.com/"
+      x0401="29" post="630-8212" addr="奈良市春日野町160 春日大社" tel="0742-22-7788" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第16団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.719189,135.747528" name="奈良 第16団" url=""
+      x0401="29" post="" addr="奈良市登美ヶ丘3-4162 スカウトハウス" tel="0742-51-1016" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第17団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.689227,135.726821" name="奈良 第17団" url=""
+      x0401="29" post="" addr="富雄・鳥見・三碓地域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第18団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.693508,135.756882" name="奈良 第18団" url="http://bsnara18.com/"
+      x0401="29" post="" addr="奈良市あやめ池南9 スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第19団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.715755,135.765786" name="奈良 第19団" url="http://www.eonet.ne.jp/~boy-nara19/"
+      x0401="29" post="" addr="奈良市北西部、平城地区" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第20団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.678426,135.747794" name="奈良 第20団" url="http://www.bsnara20.jp/"
+      x0401="29" post="" addr="鹿島香取神社近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="奈良 第24団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.723746,135.791847" name="奈良 第24団" url=""
+      x0401="29" post="" addr="高の原" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- きたやまと地区 -->
-  <marker type="G" ll="" name="生駒 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.690266,135.689568" name="生駒 第1団" url=""
+      x0401="29" post="" addr="生駒市元町2-14 大乗滝寺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.693182,135.698014" name="生駒 第2団" url="http://www.geocities.jp/ikoma_2/"
+      x0401="29" post="" addr="近鉄生駒駅近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第3団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.629174,135.700654" name="生駒 第3団" url=""
+      x0401="29" post="" addr="生駒郡平群町" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第4団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.709259,135.71579" name="生駒 第4団" url="http://www3.kcn.ne.jp/~bsikoma4/"
+      x0401="29" post="" addr="生駒市あすか野南2 スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第5団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.608849,135.730591" name="生駒 第5団" url="http://www5.kcn.ne.jp/~ryuurin/"
+      x0401="29" post="" addr="生駒郡斑鳩町" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第6団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.714022,135.701836" name="生駒 第6団" url="http://bs-ikoma6.on.creyle.jp/"
+      x0401="29" post="" addr="生駒市南田原町" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第8団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.735054,135.746358" name="生駒 第8団" url="http://www.outdoor.co.jp/scouting/"
+      x0401="29" post="" addr="鹿ノ台" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第9団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.600138,135.695525" name="生駒 第9団" url="http://bsikoma09.blog.fc2.com/"
+      x0401="29" post="" addr="生駒郡三郷町" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="生駒 第10団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.665529,135.708806" name="生駒 第10団" url="http://ikoma10.com/"
+      x0401="29" post="" addr="団野営場" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="天理 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.596647,135.837331" name="天理 第1団" url=""
+      x0401="29" post="" addr="天理市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="天理 第3団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.597404,135.845363" name="天理 第3団" url="http://www.tenri-u.ac.jp/club/scout/"
+      x0401="29" post="" addr="天理大学" tel="" fax="">
+    <![CDATA[
+    RS
+    ]]>
+  </marker>
+  <marker type="G" ll="34.650807,135.777181" name="大和郡山 第1団" url="http://www.bs-ykoriyama-1.org/"
+      x0401="29" post="" addr="大和郡山市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和郡山 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="大和郡山 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.649912,135.772734" name="大和郡山 第2団" url="http://www3.hp-ez.com/hp/yamatokoriyama2/"
+      x0401="29" post="" addr="大和郡山市南郡山町464-7 日本キリスト教団 大和郡山教会" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- まほろば地区 -->
-  <marker type="G" ll="" name="橿原 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.511475,135.796073" name="橿原 第1団" url=""
+      x0401="29" post="" addr="八木" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="橿原 第5団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.509098,135.7854" name="橿原 第5団" url="http://www.kashihara5dan.net/"
+      x0401="29" post="" addr="橿原市小綱町3-2 スカウトハウス" tel="" fax="">
+    <![CDATA[
+    今井小学校区
+    ]]>
+  </marker>
+  <marker type="G" ll="34.52997452,135.77978267" name="橿原 第7団" url="http://fine.ap.teacup.com/kasihara7/"
+      x0401="29" post="" addr="団野営場" tel="" fax="">
+    <![CDATA[
+    金橋・真菅・真菅北校区
+    ]]>
+  </marker>
+  <marker type="G" ll="34.492359,135.78495" name="橿原 第8団" url="http://gold.ap.teacup.com/kasihara8/"
+      x0401="29" post="" addr="畝傍山" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="橿原 第7団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.516887,135.804057" name="橿原 第9団" url=""
+      x0401="29" post="" addr="耳成山 スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="橿原 第8団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.4785,135.787251" name="橿原 第11団" url=""
+      x0401="29" post="" addr="白橿北・白橿南・新沢" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="橿原 第9団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.518714,135.843216" name="桜井 第2団" url="http://www.scout-sakurai.jp/"
+      x0401="29" post="" addr="桜井市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="橿原 第11団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.553392,135.780538" name="磯城 第1団" url="http://bs-shiki1dan.blogspot.jp/"
+      x0401="29" post="" addr="磯城郡(田原本町、三宅町、川西町)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="桜井 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.449513,135.793175" name="高市 第1団" url=""
+      x0401="29" post="" addr="高市郡高取町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="磯城 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.471278,135.820641" name="高市 第2団" url=""
+      x0401="29" post="" addr="明日香村" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="高市 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.576263,135.998731" name="宇陀 第1団" url=""
+      x0401="29" post="633-0316" addr="宇陀市室生向渕854 正定寺" tel="0745-92-2540" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="高市 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="宇陀 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="宇陀 第3団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.528029,135.952269" name="宇陀 第3団" url="http://www.facebook.com/uda3dan/"
+      x0401="29" post="" addr="宇陀市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 葛城地区 -->
-  <marker type="G" ll="" name="北葛城 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.594725,135.706551" name="北葛城 第1団" url="http://hokkatsu1.bluex2.net/"
+      x0401="29" post="" addr="北葛城郡王寺町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9837,68 +9845,68 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="北葛城 第6団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.562749,135.716629" name="北葛城 第6団" url=""
+      x0401="29" post="" addr="北葛城郡上牧町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="北葛城 第7団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.542784,135.750835" name="北葛城 第7団" url="http://hokkatsu7.web.fc2.com/"
+      x0401="29" post="" addr="北葛城郡広陵町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="香芝 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.534777,135.718112" name="香芝 第1団" url=""
+      x0401="29" post="" addr="五位堂・三和・鎌田・真美が丘（西・東）" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="香芝 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.541426,135.704022" name="香芝 第2団" url=""
+      x0401="29" post="" addr="関屋・二上・下田・志都美・旭ヶ丘" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和高田 第2団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.513576,135.74045" name="大和高田 第2団" url="http://yamatotakada2.web.fc2.com/"
+      x0401="29" post="" addr="高田" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和高田 第5団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.511969,135.747407" name="大和高田 第5団" url="http://yamatotakada5.web.fc2.com/"
+      x0401="29" post="" addr="片塩" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和高田 第7団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.518503,135.738888" name="大和高田 第7団" url="http://www.eonet.ne.jp/~blue-sevens/"
+      x0401="29" post="" addr="磐園" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和高田 第9団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.519216,135.724506" name="大和高田 第9団" url=""
+      x0401="29" post="" addr="陵西" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="大和高田 第12団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.509547,135.740481" name="大和高田 第12団" url=""
+      x0401="29" post="635-0092" addr="大和高田市大中南町6-11 カトリック大和高田教会" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="五條 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.364441,135.686615" name="五條 第1団" url=""
+      x0401="29" post="" addr="五條・五條西" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="五條 第3団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.350796,135.706894" name="五條 第3団" url="http://www.gogojhosun.justhpbs.jp/SCOUTING.html"
+      x0401="29" post="" addr="五條東・野原" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="御所 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.463331,135.74024" name="御所 第1団" url=""
+      x0401="29" post="" addr="御所市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="葛城 第1団" url=""
-      x0401="29" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.511119,135.706917" name="葛城 第1団" url=""
+      x0401="29" post="" addr="葛城市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9913,13 +9921,13 @@
       x0401="30" post="640-8425" addr="和歌山市松江北3-4-20 加藤様方" tel="073-452-3022" fax="073-452-3022">
     <![CDATA[
     和歌山地区<br />
-    紀北地区<br />
+    <a href="http://www.facebook.com/BsKihoku/">紀北地区</a><br />
     中紀地区
     ]]>
   </marker>
   <!-- 和歌山地区 -->
-  <marker type="G" ll="" name="和歌山 第2団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.191267,135.166848" name="和歌山 第2団" url="http://boyscoutsw2.web.fc2.com/"
+      x0401="30" post="" addr="和歌浦" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9933,9 +9941,10 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="和歌山 第18団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.212466,135.16174" name="和歌山 第18団" url="http://bsw18.mad.buttobi.net/"
+      x0401="30" post="" addr="和歌山市今福4-3-5 明王院" tel="" fax="">
     <![CDATA[
+    今福・砂山・雄湊・高松
     ]]>
   </marker>
   <marker type="G" ll="" name="和歌山 第19団" url=""
@@ -9943,28 +9952,28 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="和歌山 第20団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.248341,135.192612" name="和歌山 第20団" url="http://wakayama20.ikora.tv/"
+      x0401="30" post="" addr="有本" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="和歌山 第21団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.188209,135.187616" name="和歌山 第21団" url="http://bsw21.net/"
+      x0401="30" post="" addr="浜宮・名草・三田・山東・安原" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="和歌山 第22団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.215019,135.173522" name="和歌山 第22団" url=""
+      x0401="30" post="" addr="吹上" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="海南 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.155336,135.209223" name="海南 第1団" url=""
+      x0401="30" post="" addr="海南市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="海草 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.259921,135.116403" name="海草 第1団" url="http://www.geocities.jp/kaiso1jp/"
+      x0401="30" post="" addr="西脇・木本・八幡台" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9974,18 +9983,18 @@
     ]]>
   </marker>
   <!-- 紀北地区 -->
-  <marker type="G" ll="" name="伊都 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.213974,135.584109" name="伊都 第1団" url=""
+      x0401="30" post="" addr="伊都郡高野町高野山347 高野山大師教会" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <marker type="G" ll="" name="伊都 第3団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+      x0401="30" post="" addr="伊都郡かつらぎ町全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="伊都 第5団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.307528,135.557243" name="伊都 第5団" url="http://air.ap.teacup.com/ito5cub/"
+      x0401="30" post="" addr="橋本市高野口町全域 (高野口・応其・信太)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -9994,54 +10003,64 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="那賀 第2団" url=""
+  <marker type="G" ll="34.273139,135.433856" name="那賀 第2団" url="http://www.geocities.jp/naga2dan/"
+      x0401="30" post="" addr="旧那賀町全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.256295,135.311323" name="那賀 第4団" url=""
+      x0401="30" post="" addr="岩出市全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.2653,135.364062" name="那賀 第5団" url=""
+      x0401="30" post="" addr="旧打田町・旧桃山町全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.209392,135.31211" name="那賀 第6団" url=""
+      x0401="30" post="" addr="旧貴志川町全域" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="G" ll="34.315053,135.605296" name="橋本 第1団" url="http://www.facebook.com/bs.hashimoto1/"
       x0401="30" post="" addr="" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="那賀 第4団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="那賀 第5団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="那賀 第6団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="橋本 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
-    <![CDATA[
-    ]]>
-  </marker>
-  <marker type="G" ll="" name="橋本 第2団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="34.355739,135.603409" name="橋本 第2団" url=""
+      x0401="30" post="" addr="橋谷近辺" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
   <!-- 中紀地区 -->
-  <marker type="G" ll="" name="田辺 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="33.728034,135.377768" name="田辺 第1団" url="http://www.aikis.or.jp/~benkei2/"
+      x0401="30" post="" addr="田辺市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="御坊 第1団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="33.891492,135.152346" name="御坊 第1団" url=""
+      x0401="30" post="" addr="御坊市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="" name="新宮 第2団" url=""
-      x0401="30" post="" addr="" tel="" fax="">
+  <marker type="G" ll="33.724202,135.99253" name="新宮 第2団" url=""
+      x0401="30" post="" addr="新宮市全域" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="F" ll="33.97604,135.07981" name="和歌山県立 白崎青少年の家" url="http://www.zb.ztv.ne.jp/shirasaki/"
+  <marker type="F" ll="33.97604,135.07981" name="和歌山県立白崎青少年の家" url="http://www.zb.ztv.ne.jp/shirasaki/"
       x0401="30" post="649-1123" addr="和歌山県日高郡由良町大引961-1" tel="0738-65-2351" fax="0738-65-2352">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.314011,135.535446" name="和歌山県立紀北青少年の家" url="http://www.kihokuseisyounen.com/"
+      x0401="30" post="649-7112" addr="和歌山県伊都郡かつらぎ町中飯降1317-3" tel="0736-22-5530" fax="0736-22-5531">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.2715,135.066999" name="和歌山市立少年自然の家" url="http://www.city.wakayama.wakayama.jp/menu_1/gyousei/sizen/"
+      x0401="30" post="640-0103" addr="和歌山市加太1907-2" tel="073-459-2107" fax="073-459-2108">
     <![CDATA[
     ]]>
   </marker>
@@ -10328,7 +10347,7 @@
   <marker type="G" ll="34.795371,135.548587" name="吹田 第10団" url="http://senriokachurch.blog118.fc2.com/blog-entry-16.html"
       x0401="27" post="565-0812" addr="吹田市千里丘中15-2 日本キリスト教団 千里丘教会" tel="06-6877-2338" fax="06-6877-2338">
     <![CDATA[
-    活動の様子は<a href="https://sites.google.com/site/scout10suita/">こちらから</a>ご覧になれます。
+    活動の様子は<a href="http://scout10suita.blogspot.com/">こちらから</a>ご覧になれます。
     ]]>
   </marker>
   <marker type="G" ll="34.781856,135.518546" name="吹田 第12団" url="http://www5f.biglobe.ne.jp/~bssuita12/"
@@ -10466,13 +10485,13 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="34.707025,135.511658" name="大阪 第98団" url=""
-      x0401="27" post="" addr="北区天神橋" tel="" fax="">
+  <marker type="G" ll="34.696063,135.512617" name="大阪 第98団" url=""
+      x0401="27" post="" addr="北区天神橋2-1-8 大阪天満宮" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="34.657689,135.500041" name="大阪 第103団" url=""
-      x0401="27" post="" addr="浪速区敷津東" tel="" fax="">
+  <marker type="G" ll="34.661625,135.496692" name="大阪 第103団" url=""
+      x0401="27" post="556-0016" addr="浪速区元町2-9-19 難浪八阪神社" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
@@ -11054,7 +11073,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="34.516216,135.426010" name="高石 第2団" url=""
+  <marker type="G" ll="34.516216,135.42601" name="高石 第2団" url=""
       x0401="27" post="" addr="高石市綾園7 スカウトハウス" tel="" fax="">
     <![CDATA[
     ]]>
