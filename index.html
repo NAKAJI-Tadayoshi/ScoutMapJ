@@ -22,16 +22,16 @@
   <body>
     <div class="header">
       <b>We are SCOUTS !!</b> ～ボーイスカウト活動地域検索～
-      <button onclick="toggleDesc()" style="float:right"><span id="roll">▲</span><span id="hang" style="display:none">▼</span></button>
+      <button title="説明文の表示" onclick="toggleDesc()" style="float:right"><span id="roll">▲</span><span id="hang" style="display:none">▼</span></button>
     </div>
     <div id="description">
       ボーイスカウトの主な活動拠点、および、よく利用するキャンプ場などを検索できます。<br />
       はじめての方は <a href="http://www.scout.or.jp/whats_scouting/"><b>ボーイスカウトとは？</b></a> をご参照ください。
       もっと知りたい方は <a href="https://github.com/NAKAJI-Tadayoshi/ScoutMapJ/wiki/FAQ">サイト管理者による Q&amp;A</a> をご覧ください。<br />
       <em>現在、データ登録中の為、お近くの団が表示されていないことがあります。</em><br />
-      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/campground.png" width="16" height="16"/>団本部・活動拠点ほか</fieldset>
-      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/rangerstation.png" width="16" height="16"/>連盟所在地ほか</fieldset>
-      <fieldset><img src="http://maps.google.com/mapfiles/ms/icons/campfire.png" width="16" height="16"/>おすすめのキャンプ場ほか</fieldset>
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/micons/campground.png" width="16" height="16"/>団本部・活動拠点ほか</fieldset>
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/micons/rangerstation.png" width="16" height="16"/>連盟所在地ほか</fieldset>
+      <fieldset><img src="http://maps.google.com/mapfiles/ms/micons/campfire.png" width="16" height="16"/>おすすめのキャンプ場ほか</fieldset>
     </div>
     <noscript>
       <p><em>このページでは JavaScript を使用しています。お手数ですが JavaScript を有効にして、再表示してください。</em></p>
@@ -46,6 +46,9 @@
       <fieldset>
         <label for="pref">連盟から検索</label>
         <select id="pref" onchange="selectPref()"></select>
+      </fieldset>
+      <fieldset>
+        <button title="表示データの更新" onclick="reloadMarkers()">↻</button>
       </fieldset>
     </div>
     <div id="map_canvas"></div>
