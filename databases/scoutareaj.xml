@@ -1677,7 +1677,7 @@
     ]]>
   </marker>
   <marker type="F" ll="36.898449,139.962974" name="ボーイスカウト日本連盟 那須野営場" url="http://www.scout.or.jp/"
-      x0401="09" post="329-2756" addr="栃木県那須塩原市西三島7-334" tel="0287-36-0708" fax="0287-37-2327">
+      x0401="13" post="329-2756" addr="栃木県那須塩原市西三島7-334" tel="0287-36-0708" fax="0287-37-2327">
     <![CDATA[
     ]]>
   </marker>
@@ -1913,6 +1913,21 @@
   </marker>
   <marker type="F" ll="36.482136,139.125961" name="国立赤城青少年交流の家" url="http://akagi.niye.go.jp/"
       x0401="10" post="371-0101" addr="群馬県前橋市富士見町大字赤城山27" tel="027-289-7224" fax="027-289-7226">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.589368,138.960951" name="群馬県立北毛青少年自然の家" url="http://www.kihokumo.gsn.ed.jp/"
+      x0401="10" post="377-0702" addr="群馬県吾妻郡高山村中山6853-18" tel="0279-63-2004" fax="0279-63-2873">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.290875,138.757588" name="群馬県立妙義青少年自然の家" url="http://www.kimyogi.gsn.ed.jp/"
+      x0401="10" post="379-0209" addr="群馬県富岡市妙義町諸戸1106" tel="0274-73-2101" fax="0274-73-4040">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.37218,139.32412" name="群馬県立東毛青少年自然の家" url="http://www.kitomoshi.gsn.ed.jp/"
+      x0401="10" post="379-2301" addr="群馬県太田市薮塚町3657" tel="0277-78-5666" fax="0277-78-7322">
     <![CDATA[
     ]]>
   </marker>
@@ -2611,6 +2626,36 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="36.106508,139.631481" name="埼玉県立加須げんきプラザ" url="http://www.genki.spec.ed.jp/kazo/"
+      x0401="11" post="347-0032" addr="埼玉県加須市花崎456" tel="0480-65-0660" fax="0480-65-8894">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.949438,138.900332" name="埼玉県立大滝げんきプラザ" url="http://www.genki.spec.ed.jp/ootaki/"
+      x0401="11" post="369-1901" addr="埼玉県秩父市大滝5944-2" tel="0494-55-0014" fax="0494-55-0063">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.109279,139.117525" name="埼玉県立長瀞げんきプラザ" url="http://nagatoro-genki.com/"
+      x0401="11" post="369-1312" addr="埼玉県秩父郡長瀞町井戸367" tel="494-66-0177" fax="0494-66-0106">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.081807,139.226869" name="埼玉県立小川げんきプラザ" url="http://ogawagenki.com/"
+      x0401="11" post="355-0337" addr="埼玉県小川町木呂子561" tel="0493-72-2220" fax="0493-71-1043">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.188887,139.079696" name="埼玉県立神川げんきプラザ" url="http://kamikawa-genki.com/"
+      x0401="11" post="367-0234" addr="埼玉県児玉郡神川町池田756" tel="0495-77-3442" fax="0495-77-4907">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.935746,139.153548" name="埼玉県立名栗げんきプラザ" url="http://www.naguri-genki.com/"
+      x0401="11" post="357-0111" addr="埼玉県飯能市上名栗1289-2" tel="042-979-1011" fax="042-979-1013">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 千葉県 -->
   <marker type="C" ll="35.641379,140.116079" name="日本ボーイスカウト 千葉県連盟" url="http://www.scoutchiba.jp/"
@@ -3212,6 +3257,56 @@
   </marker>
   <marker type="G" ll="" name="栄 第1団" url=""
       x0401="12" post="" addr="" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.842634,140.056243" name="千葉県立手賀の丘少年自然の家" url="http://www.tega.jp/"
+      x0401="12" post="270-1456" addr="千葉県柏市泉1240-1" tel="04-7191-1923" fax="04-7191-0996">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.854171,140.617636" name="千葉県立水郷小見川少年自然の家" url="http://omigawa.shopro.co.jp/"
+      x0401="12" post="289-0313" addr="千葉県香取市小見川5249-1" tel="0478-82-1343" fax="0478-82-1440">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.201351,140.066901" name="千葉県立君津亀山少年自然の家" url="http://www.kimikame.net/"
+      x0401="12" post="292-0526" addr="千葉県君津市笹字片倉1661-1" tel="0439-39-2628" fax="0439-39-2609">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.576803,140.372519" name="千葉県立東金青年の家" url="http://tougane-youth.jp/"
+      x0401="12" post="283-0805" addr="千葉県東金市松之郷270" tel="0475-54-1301" fax="0475-55-4055">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.087585,140.100637" name="千葉県立鴨川青年の家" url="http://www.echiba-sports.org/kamo/k-top.html"
+      x0401="12" post="299-2862" addr="千葉県鴨川市太海122-1" tel="04-7093-1666" fax="04-7093-5490">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.160149,140.197775" name="千葉県立内浦山県民の森" url="http://www.chiba-forest.jp/uchiurayama/"
+      x0401="12" post="299-5502" addr="千葉県鴨川市内浦3228" tel="04-7095-2821" fax="04-7095-2822">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.446367,140.214771" name="千葉市少年自然の家" url="http://www.chiba-shizen.jp/"
+      x0401="12" post="297-0217" addr="千葉県長生郡長柄町針ヶ谷字中野1591-40" tel="0475-35-1131" fax="0475-35-1134">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.262671,139.983347" name="習志野市立鹿野山少年自然の家" url="http://www.city.narashino.chiba.jp/shisetu/shigai/kanouzan/"
+      x0401="12" post="292-1155" addr="千葉県君津市鹿野山731" tel="0439-37-2197" fax="0439-37-2199">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.476478,138.777671" name="習志野市立富士吉田青年の家" url="http://www.city.narashino.chiba.jp/shisetu/shigai/fujiyoshida/"
+      x0401="12" post="403-0005" addr="山梨県富士吉田市上吉田4443" tel="0555-23-6853" fax="0555-24-2499">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.039368,139.816385" name="南房総市大房岬少年自然の家" url="http://taibusa.jp/"
+      x0401="12" post="299-2404" addr="千葉県南房総市富浦町多田良1212-23" tel="0470-33-4561" fax="0470-33-4564">
     <![CDATA[
     ]]>
   </marker>
@@ -4104,6 +4199,21 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="35.311708,139.080055" name="神奈川県立足柄ふれあいの村" url="http://www.ashigara-fureai.jp/"
+      x0401="14" post="250-0121" addr="神奈川県南足柄市広町1507" tel="0465-72-2010" fax="0465-72-2013">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.537071,139.263085" name="神奈川県立愛川ふれあいの村" url="http://fureai-aikawa.com/"
+      x0401="14" post="243-0307" addr="神奈川県愛甲郡愛川町半原3390" tel="046-281-1611" fax="046-281-3601">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.191412,139.617108" name="神奈川県立ＹＭＣＡ三浦ふれあいの村" url="http://www.yokohamaymca.org/fureai/"
+      x0401="14" post="238-0114" addr="神奈川県三浦市初声町和田3136" tel="046-888-2100" fax="046-888-2152">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 山梨県 -->
   <marker type="C" ll="35.652734,138.570638" name="日本ボーイスカウト 山梨連盟" url="http://www.scout-yamanashi.jp/"
@@ -4188,7 +4298,27 @@
     ]]>
   </marker>
   <marker type="F" ll="35.400821,138.874154" name="ボーイスカウト日本連盟 山中野営場" url="http://www.scout.or.jp/"
-      x0401="19" post="401-0500" addr="山梨県南都留郡山中湖村旭日丘" tel="0555-62-0141" fax="0555-62-0852">
+      x0401="13" post="401-0500" addr="山梨県南都留郡山中湖村旭日丘" tel="0555-62-0141" fax="0555-62-0852">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.912888,138.434778" name="山梨県立八ヶ岳少年自然の家" url="http://www12.plala.or.jp/yatsugatake/"
+      x0401="19" post="407-0301" addr="山梨県北杜市高根町清里3545" tel="0551-48-2306" fax="0551-48-2307">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.673101,138.586933" name="山梨県立愛宕山少年自然の家" url="http://business4.plala.or.jp/atagoing/"
+      x0401="19" post="400-0023" addr="山梨県甲府市東光寺町358-1" tel="055-253-5933" fax="055-253-5974">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.680043,139.066871" name="山梨県立ゆずりはら青少年自然の里" url="http://yamanashikenshizennosato.web.fc2.com/"
+      x0401="19" post="409-0111" addr="山梨県上野原市棡原13880" tel="0554-67-2333" fax="0554-67-2322">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.472324,138.409913" name="山梨県立なかとみ青少年自然の里" url="http://www14.plala.or.jp/n-sato/"
+      x0401="19" post="409-3313" addr="山梨県南巨摩郡身延町平須306" tel="0556-42-3181" fax="0556-42 3182">
     <![CDATA[
     ]]>
   </marker>
@@ -4738,27 +4868,27 @@
     VS/RS
     ]]>
   </marker>
-  <marker type="G" ll="35.570867,139.7371712" name="大田 第1団" url="http://ota1dan.hp.infoseek.co.jp/boy.ota1dan.htm"
+  <marker type="G" ll="35.570867,139.737171" name="大田 第1団" url="http://ota1dan.hp.infoseek.co.jp/boy.ota1dan.htm"
       x0401="13" post="" addr="団本部(厳正寺)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5649509,139.7272305" name="大田 第2団" url=""
+  <marker type="G" ll="35.564951,139.727231" name="大田 第2団" url=""
       x0401="13" post="" addr="活動集散場所(梅屋敷公園)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5884507,139.726718" name="大田 第3団" url="http://ohta3.tokyo.scouting.jp/"
+  <marker type="G" ll="35.588451,139.726718" name="大田 第3団" url="http://ohta3.tokyo.scouting.jp/"
       x0401="13" post="" addr="活動集散場所(天祖神社)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5510668,139.7258731" name="大田 第4団" url="http://homepage3.nifty.com/zen-ei/sub3.htm"
+  <marker type="G" ll="35.551067,139.725873" name="大田 第4団" url="http://homepage3.nifty.com/zen-ei/sub3.htm"
       x0401="13" post="" addr="団本部(善永寺)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.591638,139.6667623" name="大田 第6団" url=""
+  <marker type="G" ll="35.591638,139.666762" name="大田 第6団" url=""
       x0401="13" post="" addr="団本部(カトリック田園調布教会)" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4768,7 +4898,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5579601,139.7060996" name="大田 第11団" url="http://dairaku-ji.hp.infoseek.co.jp/boyscout.htm"
+  <marker type="G" ll="35.55796,139.7061" name="大田 第11団" url="http://dairaku-ji.hp.infoseek.co.jp/boyscout.htm"
       x0401="13" post="" addr="団本部(大楽寺)" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4778,7 +4908,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5848569,139.7325623" name="大田 第14団" url="http://www.geocities.co.jp/Outdoors/4634/"
+  <marker type="G" ll="35.584857,139.732562" name="大田 第14団" url="http://www.geocities.co.jp/Outdoors/4634/"
       x0401="13" post="" addr="団本部(カトリック大森教会)" tel="" fax="">
     <![CDATA[
     ]]>
@@ -4788,17 +4918,17 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.578946,139.7051568" name="大田 第17団" url="http://honmonji.jp/scouts/top.html"
+  <marker type="G" ll="35.578946,139.705157" name="大田 第17団" url="http://honmonji.jp/scouts/top.html"
       x0401="13" post="" addr="団本部(池上本門寺)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5932599,139.6682704" name="大田 第18団" url="http://ohta18.tokyo.scouting.jp/"
+  <marker type="G" ll="35.59326,139.66827" name="大田 第18団" url="http://ohta18.tokyo.scouting.jp/"
       x0401="13" post="" addr="団本部(立正佼成会大田教会)" tel="" fax="">
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="35.5484032,139.7067361" name="大田 第19団" url=""
+  <marker type="G" ll="35.548403,139.706736" name="大田 第19団" url=""
       x0401="13" post="" addr="団本部(宝幢院)" tel="" fax="">
     <![CDATA[
     ]]>
@@ -5642,6 +5772,12 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="35.673676,139.276651" name="高尾の森わくわくビレッジ" url="http://www.wakuwaku-village.com/"
+      x0401="13" post="193-0821" addr="東京都八王子市川町55" tel="042-652-0911" fax="042-652-0944">
+    <![CDATA[
+    東京都PFI事業
+    ]]>
+  </marker>
   <marker type="F" ll="35.766224,139.758286" name="宮城ゆうゆう公園キャンプ場" url="http://www.city.adachi.tokyo.jp/faq/midori/3287.html"
       x0401="13" post="" addr="東京都足立区宮城2-13-1" tel="03-3880-5275" fax="">
     <![CDATA[
@@ -5834,6 +5970,31 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="37.80725,138.852313" name="新潟県立青少年研修センター" url="http://www.pref.niigata.lg.jp/seisyounen/"
+      x0401="15" post="953-0012" addr="新潟県新潟市西蒲区越前浜5597-1" tel="0256-77-2111" fax="0256-77-2114">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="38.120258,139.400513" name="新潟県少年自然の家" url="http://www.pref.niigata.lg.jp/shizen/"
+      x0401="15" post="959-2602" addr="新潟県胎内市乙字大日裏" tel="0254-46-2224" fax="0254-46-3070">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="37.683068,139.359016" name="新潟市青少年三川自然の森" url="http://www.city.niigata.lg.jp/kosodate/manabishogaku/shisetsu/seihonen/mikawa.html"
+      x0401="15" post="959-4609" addr="新潟県東蒲原郡阿賀町谷沢5277-19" tel="0254-99-2835" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="37.756592,138.845115" name="新潟市入徳館野外研修場" url="http://www.city.niigata.lg.jp/kosodate/manabishogaku/shisetsu/seihonen/nyutokukan.html"
+      x0401="15" post="953-0075" addr="新潟県新潟市西蒲区峰岡444-2" tel="0256-72-3329" fax="0256-73-4746">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="37.821463,139.313194" name="阿賀野市五頭連峰少年自然の家" url="http://gozu.agano.ed.jp/"
+      x0401="15" post="959-1924" addr="新潟県阿賀野市畑江23" tel="0250-62-0120" fax="0250-62-1670">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 富山県 -->
   <marker type="C" ll="36.696093,137.2061" name="日本ボーイスカウト 富山県連盟" url="http://www.bstoyama.org/"
@@ -6015,7 +6176,22 @@
     ]]>
   </marker>
   <marker type="F" ll="36.589401,137.409123" name="国立立山青少年自然の家" url="http://tateyama.niye.go.jp/"
-      x0401="16" post="930-1407" addr="富山県中新川郡立山町芦峅寺字前谷1" tel="076-481-1321" fax="">
+      x0401="16" post="930-1407" addr="富山県中新川郡立山町芦峅寺字前谷1" tel="076-481-1321" fax="076-481-1430">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.695579,137.15069" name="富山県呉羽青少年自然の家" url="http://po6.nsk.ne.jp/kureha/"
+      x0401="16" post="930-0143" addr="富山県富山市西金屋字長尾8194" tel="076-434-1908" fax="076-434-1942">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.623128,137.023619" name="富山県砺波青少年自然の家" url="http://shizentonami.jp/"
+      x0401="16" post="939-1432" addr="富山県砺波市徳万字赤坂17-5" tel="0763-37-2002" fax="0763-37-1118">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.57546,137.063817" name="富山市野外教育活動センター (富山市子どもの村)" url="http://www.knei.jp/~child.v/index2.htm"
+      x0401="16" post="930-2117" addr="富山県富山市山田赤目谷16-2" tel="076-457-2311" fax="076-457-2277">
     <![CDATA[
     ]]>
   </marker>
@@ -6172,6 +6348,31 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="36.442438,136.632784" name="石川県立白山青年の家" url="http://www.hakusanseinen.jp/"
+      x0401="17" post="920-2113" addr="石川県白山市八幡町戌142" tel="076-272-3695" fax="076-272-3694">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.292649,136.642696" name="石川県立白山ろく少年自然の家" url="http://www.hakusan6.com/"
+      x0401="17" post="920-2331" addr="石川県白山市瀬戸ワ29" tel="076-256-7114" fax="076-256-7115">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="37.338657,137.253255" name="石川県立能登少年自然の家" url="http://www.ishikawa-shizen.jp/noto/top.html"
+      x0401="17" post="927-0604" addr="石川県鳳珠郡能登町字九里川尻16-20" tel="0768-72-2200" fax="0768-72-2074">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.919673,136.891302" name="石川県立鹿島少年自然の家" url="http://www.ishikawa-shizen.jp/kashima/top.html"
+      x0401="17" post="929-1635" addr="石川県鹿島郡中能登町高畠原山分ハ1" tel="0767-77-2200" fax="0767-77-2201">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.253457,136.491103" name="小松市里山自然学校大杉みどりの里" url="http://oosugi-midorinosato.jimdo.com/"
+      x0401="17" post="923-0186" addr="石川県小松市大杉町イ98" tel="0761-46-1812" fax="0761-46-1811">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 福井県 -->
   <marker type="C" ll="36.03586,136.231475" name="日本ボーイスカウト 福井連盟" url="http://www.scout-fukui.gr.jp/"
@@ -6284,6 +6485,26 @@
   </marker>
   <marker type="F" ll="35.561031,135.813995" name="国立若狭湾青少年自然の家" url="http://wakasawan.niye.go.jp/"
       x0401="18" post="917-0198" addr="福井県小浜市田烏区大浜" tel="0770-54-3100" fax="0770-54-3023">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.023742,136.582623" name="福井県立奥越高原青少年自然の家" url="http://info.pref.fukui.jp/syougak/okuetu/hp-1.3/index.htm"
+      x0401="18" post="912-0131" addr="福井県大野市南六呂師169-8" tel="0779-67-1321" fax="0779-67-1721">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.256711,136.219374" name="福井県立芦原青年の家" url="http://www.pref.fukui.jp/doc/awara-seinen/"
+      x0401="18" post="910-4272" addr="福井県あわら市北潟250-20" tel="0776-79-1001" fax="0776-79-1005">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.937822,136.147895" name="福井県立鯖江青年の家" url="http://www.pref.fukui.jp/doc/sabae-seinen/"
+      x0401="18" post="916-0074" addr="福井県鯖江市上野田町19-1" tel="0778-62-1214" fax="0778-62-1215">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.560196,135.894431" name="福井県立三方青年の家" url="http://www.pref.fukui.jp/doc/mikata-seinen/"
+      x0401="18" post="919-1331" addr="福井県若狭町鳥浜122-27-1" tel="0770-45-0229" fax="0770-45-0237">
     <![CDATA[
     ]]>
   </marker>
@@ -6457,6 +6678,32 @@
   <marker type="F" ll="35.945657,138.126718" name="国立信州高遠青少年自然の家" url="http://takato.niye.go.jp/"
       x0401="20" post="396-0301" addr="長野県伊那市高遠町藤沢6877-11" tel="0265-96-2525" fax="0265-96-2151">
     <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.614272,137.873914" name="長野県松川青年の家" url="http://ma-seinennoie.fem.jp/"
+      x0401="20" post="399-3304" addr="長野県下伊那郡松川町大島2750-284" tel="0265-36-4700" fax="0265-34-1160">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.556557,138.359528" name="長野県須坂青年の家" url="http://suzaka-seinennoie.info/"
+      x0401="20" post="386-2211" addr="長野県須坂市大字仁礼字峰の原3153-784" tel="0268-74-3017" fax="0268-74-3877">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="36.168314,138.31093" name="長野県望月少年自然の家" url="http://www.sakunet.ne.jp/~moti1258/"
+      x0401="20" post="384-2204" addr="長野県佐久市協和3489-67" tel="0267-54-2405" fax="0267-51-1144">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.314676,137.814402" name="長野県阿南少年自然の家" url="http://ananshonen.jp/"
+      x0401="20" post="399-1504" addr="長野県下伊那郡阿南町西條2332" tel="0260-22-3315" fax="0260-31-1015">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.805837,138.126755" name="鹿嶺高原キャンプ場" url="http://www.city.ina.nagano.jp/view.rbz?cd=1982"
+      x0401="20" post="396-0401" addr="長野県伊那市長谷非持3817-1" tel="0265-98-2701" fax="0265-98-2701">
+    <![CDATA[
+    7月上旬～9月下旬
     ]]>
   </marker>
 
@@ -6659,16 +6906,51 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="35.518188,136.832016" name="岐阜市少年自然の家" url="http://www.mirai.ne.jp/~gishizen/"
+      x0401="21" post="501-2502" addr="岐阜県岐阜市山県北野2081" tel="058-229-2888" fax="058-229-2933">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.385716,136.927265" name="各務原市少年自然の家" url="http://www.city.kakamigahara.lg.jp/naturehome/"
+      x0401="21" post="509-0143" addr="岐阜県各務原市鵜沼小伊木町4-213" tel="058-370-5280" fax="058-370-5281">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.505077,136.936584" name="関市立中池自然の家" url="http://www.city.seki.gifu.jp/sizenie/"
+      x0401="21" post="501-3206" addr="岐阜県関市塔ノ洞3885-1" tel="0575-24-0673" fax="0575-23-5033">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.978619,137.195633" name="下呂市位山自然の家" url="http://www.city.gero.lg.jp/gyousei/view.rbz?cd=85"
+      x0401="21" post="509-2501" addr="岐阜県下呂市萩原町山之口1034" tel="0576-54-1302" fax="0576-54-1302">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.313506,137.086799" name="多治見市三の倉市民の里 地球村" url="http://www.tajimi-bunka.or.jp/chikyu/"
+      x0401="21" post="507-0045" addr="岐阜県多治見市三の倉町猪場37" tel="0572-24-3212" fax="0572-24-3213">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.313376,137.378801" name="大正村明智の森キャンプ場" url="http://www.city.ena.lg.jp/machi/culture_sports/kyanpujyou/"
+      x0401="21" post="509-7706" addr="岐阜県恵那市明智町639-165" tel="0573-43-2112" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.255472,137.191497" name="土岐市三国山キャンプ場" url="http://www.city.toki.lg.jp/wcore/hp/page000001100/hpg000001058.htm"
+      x0401="21" post="509-5312" addr="岐阜県土岐市鶴里町柿野3512-4" tel="0572-52-2001" fax="0572-52-2096">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 静岡県 -->
   <marker type="C" ll="34.974207,138.364614" name="日本ボーイスカウト 静岡県連盟" url="http://www.bs-shizuoka.com/"
       x0401="22" post="420-0068" addr="静岡市葵区田町1-70-1 静岡県青少年会館内" tel="054-255-6185" fax="054-255-6186">
     <![CDATA[
-    伊東地区<br />
+    <a href="http://www.bs-ito.com/">伊東地区</a><br />
     三島地区<br />
     沼駿地区<br />
     御殿場・小山地区<br />
-    富士地区<br />
+    <a href="http://bs-fuji.blog.ocn.ne.jp/">富士地区</a><br />
     富士宮地区<br />
     清水地区<br />
     静岡地区<br />
@@ -6676,7 +6958,7 @@
     島田地区<br />
     掛川・袋井地区<br />
     磐田地区<br />
-    浜松地区<br />
+    <a href="http://www.scout-hamamatsu.net/">浜松地区</a><br />
     浜松東地区<br />
     浜北・天竜地区
     ]]>
@@ -7363,6 +7645,46 @@
   </marker>
   <marker type="F" ll="35.323414,138.869064" name="国立中央青少年交流の家" url="http://fujinosato.niye.go.jp/"
       x0401="22" post="412-0006" addr="静岡県御殿場市中畑2092-5" tel="0550-89-2020" fax="0550-89-2025">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.782174,137.579288" name="静岡県立三ケ日青年の家" url="http://mikkabi.shopro.co.jp/"
+      x0401="22" post="431-1402" addr="静岡県浜松市北区三ヶ日町都筑523-1" tel="053-526-7156" fax="053-526-0665">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.84276,138.333863" name="静岡県立焼津青少年の家" url="http://yaisei.jp/"
+      x0401="22" post="425-0041" addr="静岡県焼津市石津2259-408" tel="054-624-4675" fax="054-623-0768">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.890461,137.723978" name="静岡県立観音山少年自然の家" url="http://www.inh.co.jp/~kannonyama/"
+      x0401="22" post="431-2201" addr="静岡県浜松市北区引佐町東久留女木字観音山" tel="053-545-0111" fax="053-545-0363">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.385839,138.58706" name="静岡県立朝霧野外活動センター" url="http://asagiri.camping.or.jp/"
+      x0401="22" post="418-0101" addr="静岡県富士宮市根原1" tel="0544-52-0321" fax="053-545-0363">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.285956,138.716561" name="静岡県立富士山麓山の村" url="http://2236yamanomura.com/"
+      x0401="22" post="418-0011" addr="静岡県富士宮市粟倉2745" tel="0545-36-2236" fax="0545-36-2239">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.206494,138.255411" name="静岡市井川少年自然の家" url="http://www.city.shizuoka.jp/deps/kyouiku/shizennoie/"
+      x0401="22" post="428-0504" addr="静岡県静岡市葵区井川3055-1" tel="054-260-2761" fax="054-260-2219">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.108565,138.477599" name="静岡市清水和田島少年自然の家" url="http://www.city.shizuoka.jp/deps/kyouiku/wadashima/"
+      x0401="22" post="424-0403" addr="静岡県静岡市清水区和田島271-3" tel="054-395-2611" fax="054-395-2648">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.230191,138.723303" name="富士市立少年自然の家" url="http://www.city.fuji.shizuoka.jp/hp/page000022700/hpg000022626.htm"
+      x0401="22" post="417-0801" addr="静岡県富士市大淵10847-1" tel="0545-35-1697" fax="0545-36-2799">
     <![CDATA[
     ]]>
   </marker>
@@ -8476,6 +8798,53 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="34.92424,137.188644" name="愛知県青年の家" url="http://aichi-yh.jp/"
+      x0401="23" post="444-0802" addr="愛知県岡崎市美合町並松1-2" tel="0564-51-2123" fax="0564-51-2027">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.225558,137.40627" name="愛知県旭高原少年自然の家" url="http://www.hm11.aitai.ne.jp/~asahi/"
+      x0401="23" post="444-2893" addr="愛知県豊田市小滝野町坂38-25" tel="0565-68-3200" fax="0565-68-3203">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.751993,136.854067" name="愛知県美浜少年自然の家" url="http://www6.ocn.ne.jp/~mihama/"
+      x0401="23" post="470-3236" addr="愛知県知多郡美浜町大字小野浦字宮後1-1" tel="0569-88-5577" fax="0569-88-5385">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.994667,137.626436" name="愛知県民の森" url="http://www6.ocn.ne.jp/~kenmin/"
+      x0401="23" post="441-1693" addr="愛知県新城市門谷鳳来寺7-60" tel="0536-32-1262" fax="0536-32-1273">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.982394,137.39235" name="愛知県野外教育センター" url="http://homepage3.nifty.com/yagaicenter/"
+      x0401="23" post="444-3432" addr="愛知県岡崎市千万町町字大平田17-5" tel="0564-83-2221" fax="0564-83-2222">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.966402,137.253607" name="岡崎市少年自然の家" url="http://www.city.okazaki.aichi.jp/menu11685.html"
+      x0401="23" post="444-3341" addr="愛知県岡崎市須淵町字屋名平44-1" tel="0564-47-2357" fax="0564-47-3536">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.303706,137.055258" name="春日井市少年自然の家" url="http://www.city.kasugai.lg.jp/shisetsu/ie/"
+      x0401="23" post="487-0031" addr="愛知県春日井市廻間町1102-1" tel="0568-92-8211" fax="0568-91-1640">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.299815,137.063245" name="春日井市細野キャンプ場" url="http://www.city.kasugai.lg.jp/sangyo/kanko/hosono.html"
+      x0401="23" post="487-0001" addr="愛知県春日井市細野町2988-2" tel="0568-92-8211" fax="0568-91-1640">
+    <![CDATA[
+    7/1-9/30<br />
+    受付:少年自然の家
+    ]]>
+  </marker>
+  <marker type="F" ll="35.355677,137.430696" name="知多市野外教育センター" url="http://www.city.chita.aichi.jp/kyouiku/syougai/iwamura/iwamura.html"
+      x0401="23" post="509-7403" addr="岐阜県恵那市岩村町482-43" tel="0573-43-4006" fax="0573-43-4006">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 三重県 -->
   <marker type="C" ll="34.744253,136.5006" name="日本ボーイスカウト 三重連盟" url="http://scout-mie.jimdo.com/"
@@ -8590,10 +8959,35 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="F" ll="34.806978,136.264737" name="大阪市立伊賀青少年野外活動センター" url="http://www.camp-iga.com/"
-      x0401="24" post="519-1413" addr="三重県伊賀市愛田3156-1" tel="0595-45-2380" fax="0595-45-3080">
+  <marker type="F" ll="33.87927,136.044863" name="三重県立熊野少年自然の家" url="http://www.kuma-sho.com/"
+      x0401="24" post="519-4327" addr="三重県熊野市金山町1577" tel="0597-89-3340" fax="0597-89-3387">
     <![CDATA[
-    <b>冬期閉館 (12/1-2/28)</b>
+    ]]>
+  </marker>
+  <marker type="F" ll="34.85611,136.538193" name="三重県立鈴鹿青少年センター" url="http://www.mie-sports.or.jp/suzukayc/"
+      x0401="24" post="513-0825" addr="三重県鈴鹿市住吉町南谷口" tel="059-378-9811" fax="059-378-9809">
+    <![CDATA[
+    <a href="http://www.seisyounenmori.com/">三重県営鈴鹿青少年の森</a>
+    ]]>
+  </marker>
+  <marker type="F" ll="34.988634,136.46717" name="四日市市少年自然の家" url="http://yokkaichi.shopro.co.jp/"
+      x0401="24" post="512-1105" addr="三重県四日市市水沢町字大谷1423-2" tel="059-329-3210" fax="059-329-2095">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.882774,136.360269" name="亀山市鈴鹿峠自然の家" url="http://www.city.kameyama.mie.jp/kyouiku/lifestudy/sizennoie.html"
+      x0401="24" post="519-1102" addr="三重県亀山市関町沓掛123" tel="0595-84-5057" fax="0595-82-6161">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.711019,136.478118" name="津市青少年野外活動センター" url="http://www.ztv.ne.jp/web/tsu-yagaicenter/"
+      x0401="24" post="514-0824" addr="三重県津市神戸字小世古1680-1" tel="059-228-4025" fax="059-246-8899">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.288114,136.841148" name="志摩市ともやま公園キャンプ村" url="http://www.city.shima.mie.jp/tomoyama/file/campmura.html"
+      x0401="24" post="517-0603" addr="三重県志摩市大王町波切2199" tel="0599-72-3725" fax="0599-72-4637">
+    <![CDATA[
     ]]>
   </marker>
 
@@ -8747,8 +9141,28 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="F" ll="35.399813,135.980456" name="吹田市立少年自然の家 もくもくの里" url="http://www.city.suita.osaka.jp/home/soshiki/div-chiikikyoiku/shizen.html"
-      x0401="25" post="520-1641" addr="滋賀県高島市今津町南生見9" tel="0740-24-0131" fax="0740-24-0431">
+  <marker type="F" ll="35.436241,136.260583" name="滋賀県立虎御前山教育キャンプ場" url="http://www.pref.shiga.lg.jp/edu/sogo/kakuka/ma08/file/toragozenn/camp.html"
+      x0401="25" post="529-0103" addr="滋賀県長浜市中野町" tel="0749-73-4853" fax="0749-73-2517">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.258015,135.963165" name="滋賀県立比良山岳センター" url="http://genkimura.blog.eonet.jp/"
+      x0401="25" post="520-0501" addr="滋賀県大津市北小松1769-3" tel="077-596-0710" fax="077-596-0730">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.053825,136.074661" name="滋賀県希望が丘文化公園" url="http://www.shiga-bunshin.or.jp/kibougaoka/"
+      x0401="25" post="520-2551" addr="滋賀県蒲生郡竜王町薬師1178" tel="077-586-2111" fax="077-586-1799">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.244255,135.865875" name="大津市立葛川少年自然の家" url="http://www.city.otsu.shiga.jp/www/contents/1009249116836/"
+      x0401="25" post="520-0475" addr="滋賀県大津市葛川坊村町243" tel="077-599-2102" fax="077-599-8003">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.238329,136.200805" name="彦根市荒神山少年自然の家" url="http://www.city.hikone.shiga.jp/kojinyama/"
+      x0401="25" post="522-0047" addr="滋賀県彦根市日夏町宮前4794-1" tel="0749-28-1871" fax="0749-28-1872">
     <![CDATA[
     ]]>
   </marker>
@@ -9127,9 +9541,51 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="F" ll="35.029452,135.399472" name="京都府立るり渓少年自然の家" url="http://www.cans.zaq.ne.jp/rurikei/home1.html"
+  <marker type="F" ll="34.754369,136.014724" name="京都府立南山城少年自然の家 (グリーンパル南山城)" url="http://greenpal-m.jp/"
+      x0401="26" post="619-1421" addr="京都府相楽郡南山城村田山ツルギ55-2" tel="0743-94-0302" fax="0743-94-0303">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.029452,135.399472" name="京都府立るり渓少年自然の家 (グリーンパルるり渓)" url="http://www.cans.zaq.ne.jp/rurikei/home1.html"
       x0401="26" post="622-0065" addr="京都府南丹市園部町大河内小米阪1-9" tel="0771-65-0190" fax="">
     <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.582527,135.230896" name="京都府立青少年海洋センター (マリーンピア)" url="http://www5.ocn.ne.jp/~marinpia/"
+      x0401="26" post="626-0068" addr="京都府宮津市字田井小字大池382" tel="0772-22-0501" fax="0772-22-0503">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.494718,135.342775" name="京都府青少年の島「戸島」" url="http://www.pref.kyoto.jp/shisetsu/kyoiku012.html"
+      x0401="26" post="" addr="京都府舞鶴市" tel="075-414-4304" fax="">
+    <![CDATA[
+    <b>一時休島中(2008-)</b>
+    ]]>
+  </marker>
+  <marker type="F" ll="35.172518,135.785784" name="京都市野外活動施設 花背山の家" url="http://web.kyoto-inet.or.jp/org/hanasell/"
+      x0401="26" post="601-1105" addr="京都府京都市左京区花脊別所町399" tel="075-746-0717" fax="075-746-0392">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.161459,135.801558" name="京都市百井青少年村" url="http://www.city.kyoto.lg.jp/bunshi/page/0000002397.html"
+      x0401="26" post="601‐1233" addr="京都府京都市左京区大原百井町356" tel="075-354-6388" fax="075-354-6388">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.265649,136.86019" name="京都市野外教育センター 奥志摩みさきの家" url="http://www.city.kyoto.lg.jp/kyoiku/soshiki/29-16-0-0-0_1.html"
+      x0401="26" post="517-0604" addr="三重県志摩市大王町船越231" tel="0599-72-3866" fax="0599-72-1383">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.316842,135.440239" name="京都府和知青少年山の家" url="http://wachi.org/"
+      x0401="26" post="629-1108" addr="京都府船井郡京丹波町上粟野東畑19" tel="0771-84-1416" fax="0771-84-1416">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.480193,135.125731" name="池ケ成公園キャンプ場" url="http://www.town-yosano.jp/wwwg/section/detail.jsp?common_id=439"
+      x0401="26" post="629-2413" addr="京都府与謝郡与謝野町温江" tel="0772-43-0860" fax="0599-72-1383">
+    <![CDATA[
+    連絡先:<a href="http://www.town-yosano.jp/wwwg/section/detail.jsp?common_id=444">京都府加悦青少年山の家</a>
     ]]>
   </marker>
 
@@ -9883,8 +10339,54 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="35.017695,135.335258" name="兵庫県立奥猪名健康の郷" url="http://pb-k.jp/okuina/"
+      x0401="28" post="666-0201" addr="兵庫県川辺郡猪名川町杉生字奥山1-22" tel="072-769-0485" fax="072-769-0894">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.437173,134.583177" name="兵庫県立兎和野高原野外教育センター" url="http://www.uwano.jp/"
+      x0401="28" post="667-1336" addr="兵庫県美方郡香美町村岡区宿791-1" tel="0796-94-0211" fax="0796-94-0212">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.65042,134.489677" name="兵庫県立いえしま自然体験センター" url="http://www.shizen-ieshima.com/"
+      x0401="28" post="672-0100" addr="兵庫県姫路市家島町西島" tel="079-327-1508" fax="079-327-1461">
+    <![CDATA[
+    ]]>
+  </marker>
   <marker type="F" ll="34.743755,135.213298" name="神戸市立自然の家" url="http://www.kobe-sizennoie.com/"
       x0401="28" post="657-0101" addr="兵庫県神戸市灘区六甲山町中一里山1-1" tel="078-891-0001" fax="078-891-0002">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.776667,135.333048" name="西宮市立甲山自然環境センター" url="http://kabuto.leaf.or.jp/"
+      x0401="28" post="662-0001" addr="兵庫県西宮市甲山町67" tel="0798-72-0037" fax="0798-72-0037">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.291389,134.911141" name="西宮市立山東自然の家" url="http://www.santosizennoie.jp/"
+      x0401="28" post="669-5125" addr="兵庫県朝来市山東町粟鹿字畑田2179" tel="079-676-4100" fax="079-676-4466">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.279949,134.66673" name="養父市立旭山野外活動センター (あけのべ自然学校)" url="http://www.fureai-net.tv/akenobesizen/shisetsu/asahiyama.html"
+      x0401="28" post="667-0436" addr="兵庫県養父市大屋町明延" tel="079-668-0258" fax="079-668-0258">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.229564,135.003492" name="組合立 丹波少年自然の家" url="http://www.hk.sun-ip.or.jp/yamabiko/"
+      x0401="28" post="669-3803" addr="兵庫県丹波市青垣町西芦田イゲ32-2" tel="0795-87-1633" fax="0795-87-1777">
+    <![CDATA[
+    9市1町 (阪神(尼崎市・西宮市・芦屋市・伊丹市・宝塚市・川西市・三田市・猪名川町)・丹波(丹波市・篠山市))
+    ]]>
+  </marker>
+  <marker type="F" ll="34.677769,134.911677" name="明石市立少年自然の家" url="http://akashi.shopro.co.jp/"
+      x0401="28" post="674-0064" addr="兵庫県明石市大久保町江井島567" tel="078-947-6181" fax="078-948-5046">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.799974,134.842269" name="加古川市立少年自然の家" url="http://www.city.kakogawa.lg.jp/18,2104,172,1072.html"
+      x0401="28" post="675-0058" addr="兵庫県加古川市東神吉町天下原715-5" tel="079-432-5177" fax="079-432-5178">
     <![CDATA[
     ]]>
   </marker>
@@ -10047,7 +10549,7 @@
     今井小学校区
     ]]>
   </marker>
-  <marker type="G" ll="34.52997452,135.77978267" name="橿原 第7団" url="http://fine.ap.teacup.com/kasihara7/"
+  <marker type="G" ll="34.529974,135.779783" name="橿原 第7団" url="http://fine.ap.teacup.com/kasihara7/"
       x0401="29" post="" addr="団野営場" tel="" fax="">
     <![CDATA[
     金橋・真菅・真菅北校区
@@ -10181,6 +10683,21 @@
   </marker>
   <marker type="F" ll="34.577227,135.956393" name="奈良県立野外活動センター" url="http://www12.ocn.ne.jp/~center/"
       x0401="29" post="632-0231" addr="奈良県奈良市都祁吐山町2040" tel="0743-82-0508" fax="0743-82-2026">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.713121,135.936554" name="奈良市青少年野外活動センター" url="http://www.nara-e.net/camp/"
+      x0401="29" post="630-1241" addr="奈良県奈良市阪原町25-1" tel="0742-93-0029" fax="0742-93-0029">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.701065,135.677032" name="生駒山麓公園野外活動センター" url="http://www.city.ikoma.lg.jp/datafile/su/su14.html"
+      x0401="29" post="630-0243" addr="奈良県生駒市俵口町2088" tel="0743-73-8880" fax="0743-73-5350">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.653031,135.750408" name="大和郡山市立少年自然の家" url="http://www.city.yamatokoriyama.nara.jp/kosodate/education/youth/000656.html"
+      x0401="29" post="639-1058" addr="奈良県大和郡山市矢田町574" tel="0743-53-7290" fax="0743-53-7290">
     <![CDATA[
     ]]>
   </marker>
@@ -10320,6 +10837,11 @@
   </marker>
   <marker type="F" ll="33.97604,135.07981" name="和歌山県立白崎青少年の家" url="http://www.zb.ztv.ne.jp/shirasaki/"
       x0401="30" post="649-1123" addr="和歌山県日高郡由良町大引961-1" tel="0738-65-2351" fax="0738-65-2352">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="33.446374,135.780522" name="和歌山県立潮岬青少年の家" url="http://omoshiro-yh.com/"
+      x0401="30" post="649-3502" addr="和歌山県東牟婁郡串本町潮岬669" tel="0735-62-6045" fax="0735-62-0182">
     <![CDATA[
     ]]>
   </marker>
@@ -11451,13 +11973,154 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="34.366842,135.406937" name="大阪府立少年自然の家" url="http://shizen.osaka-yha.or.jp/"
+      x0401="27" post="597-0102" addr="大阪府貝塚市木積字秋山長尾3350" tel="072-478-8331" fax="072-478-8335">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.410864,135.67695" name="府民の森ちはや園地 金剛山キャンプ場" url="http://osaka-midori.jp/mori/shisetsu/shisetsu06.html"
+      x0401="27" post="585-0051" addr="大阪府南河内郡千早赤阪村大字千早1313-2" tel="0721-74-0056" fax="0721-74-0056">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.336147,135.181747" name="大阪府立青少年海洋センター" url="http://www.osaka-kaiyo.com/"
+      x0401="27" post="599-0301" addr="大阪府泉南郡岬町淡輪6190" tel="072-494-1811" fax="072-494-1735">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.710927,135.569761" name="鶴見緑地キャンプ場" url="http://www.ocsga.or.jp/osakapark/hfm_park/01tsurumi/02_bbq.html"
+      x0401="27" post="538-0036" addr="大阪市鶴見区花博記念公園鶴見緑地" tel="06-6915-2551" fax="06-6915-2552">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.489061,135.447935" name="大阪市立信太山青少年野外活動センター" url="http://www.shinodayama.com/"
+      x0401="27" post="594-0023" addr="大阪府和泉市伯太町3-12-86" tel="0725-41-2921" fax="0725-41-2963">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.806978,136.264737" name="大阪市立伊賀青少年野外活動センター" url="http://www.camp-iga.com/"
+      x0401="27" post="519-1413" addr="三重県伊賀市愛田3156-1" tel="0595-45-2380" fax="0595-45-3080">
+    <![CDATA[
+    <b>冬期閉館 (12/1-2/28)</b>
+    ]]>
+  </marker>
+  <marker type="F" ll="35.296104,136.01799" name="大阪市立びわ湖青少年の家" url="http://www.ays-biwako.com/"
+      x0401="27" post="520-1121" addr="滋賀県高島市勝野1523-1" tel="0740-36-1108" fax="0740-36-1477">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.838737,135.456604" name="箕面市立青少年教学の森野外活動センター" url="http://www.yso.or.jp/minoh/"
+      x0401="27" post="562-0005" addr="大阪府箕面市新稲2-257-3" tel="072-722-8110" fax="072-722-5766">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.005535,135.43338" name="豊中市立青少年自然の家 わっぱる" url="http://toyonaka-camp.com/wapparu/"
+      x0401="27" post="563-0301" addr="大阪府豊能郡能勢町宿野151-68" tel="072-734-0301" fax="072-734-1719">
+    <![CDATA[
+    ]]>
+  </marker>
   <marker type="F" ll="34.827422,135.50991" name="吹田市自然体験交流センター わくわくの郷" url="http://wakuwaku-suita.com/"
       x0401="27" post="565-0873" addr="大阪府吹田市藤白台5-20-1" tel="06-6872-0713" fax="06-6871-7747">
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="35.399813,135.980456" name="吹田市立少年自然の家 もくもくの里" url="http://www.city.suita.osaka.jp/home/soshiki/div-chiikikyoiku/shizen.html"
+      x0401="27" post="520-1641" addr="滋賀県高島市今津町南生見9" tel="0740-24-0131" fax="0740-24-0431">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.924221,135.53288" name="茨木市青少年野外活動センター" url="http://www.city.ibaraki.osaka.jp/shisetsu/kyoikubunka/1317033652853.html"
+      x0401="27" post="568-0087" addr="大阪府茨木市大字銭原115" tel="072-622-5180" fax="072-622-9858">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.876381,135.58407" name="高槻市立摂津峡青少年キャンプ場" url="http://www.city.takatsuki.osaka.jp/kakuka/kyoikukanribu/tiikikyo/gyomuannai/camp/camp/"
+      x0401="27" post="569-1051" addr="大阪府高槻市大字原1" tel="072-699-0005" fax="072-699-0005">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.791914,135.720557" name="枚方市野外活動センター" url="http://hirakata-taikyo.org/hao/"
+      x0401="27" post="573-0114" addr="大阪府枚方市穂谷4550" tel="072-858-0300" fax="072-858-0048">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.720826,135.656804" name="大東市立青少年野外活動センター" url="http://www.ysdnet.ne.jp/campground/"
+      x0401="27" post="574-0012" addr="大阪府大東市竜間1846" tel="072-869-0232" fax="072-869-0232">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.727534,135.672716" name="四條畷市立野外活動センター" url="http://www5.ocn.ne.jp/~nawateya/"
+      x0401="27" post="575-0011" addr="大阪府四條畷市大字逢阪408-1" tel="072-877-0778" fax="072-877-0009">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.73621,135.680529" name="寝屋川市野外活動センター (NOA)" url="http://www.city.neyagawa.osaka.jp/outdoor/"
+      x0401="27" post="575-0012" addr="大阪府四條畷市大字下田原2237" tel="0743-78-1910" fax="0743-79-2250">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.651375,135.663027" name="東大阪市立野外活動センター 自由の森なるかわ" url="http://www.yso.or.jp/higashiosaka/"
+      x0401="27" post="579-8061" addr="大阪府東大阪市六万寺町1-1668" tel="072-986-1551" fax="072-986-1550">
+    <![CDATA[
+    ]]>
+  </marker>
   <marker type="F" ll="34.609204,135.636311" name="八尾市立大畑山青少年野外活動センター アクトランドYAO" url="http://www.actland-yao.jp/"
       x0401="27" post="581-0883" addr="大阪府八尾市恩智4-55" tel="072-940-2028" fax="072-940-2029">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.594279,135.653397" name="柏原市青少年教育キャンプ場" url="http://www.city.kashiwara.osaka.jp/shakaikyoiku/camp.htm"
+      x0401="27" post="582-0012" addr="大阪府柏原市雁多尾畑3842" tel="072-979-0899" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.458999,135.588843" name="富田林市立青少年教育キャンプ場" url="http://www.city.tondabayashi.osaka.jp/contents4/category14/03.html"
+      x0401="27" post="584-0055" addr="大阪府富田林市伏見堂1004-25" tel="0721-24-2265" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.448644,135.551717" name="河内長野市赤峰市民広場キャンプ場" url="http://www.city.kawachinagano.lg.jp/manabiyan/facility/akamine_hiroba.html"
+      x0401="27" post="586-0094" addr="大阪府河内長野市小山田町379-1" tel="0721-54-0252" fax="0721-65-0122">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.381734,135.557506" name="河内長野市立岩湧野外活動広場" url="http://www.city.kawachinagano.lg.jp/manabiyan/facility/iwawaki_hiroba.html"
+      x0401="27" post="586-0071" addr="大阪府河内長野市加賀田3822-1" tel="0721-63-6700" fax="0721-65-0122">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.51936,135.56176" name="大阪狭山市立市民ふれあいの里青少年野外活動広場" url="http://www.city.osakasayama.osaka.jp/6,1864,39,150.html"
+      x0401="27" post="589-0003" addr="大阪府大阪狭山市東野東1" tel="072-366-1616" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.352086,135.321132" name="泉南市立青少年の森" url="http://www.city.sennan.osaka.jp/syougaigakusyu/sg_mori.htm"
+      x0401="27" post="590-0503" addr="大阪府泉南市新家5033" tel="072-484-3123" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.524624,135.424885" name="高石市立野外活動センター" url="http://www.city.takaishi.lg.jp/shisetsu/outdoor/yagai.html"
+      x0401="27" post="592-0004" addr="大阪府高石市高師浜丁" tel="072-262-7996" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.398187,135.497276" name="和泉市立青少年の家" url="http://makiosan.com/"
+      x0401="27" post="594-1131" addr="大阪府和泉市槇尾山町1-21" tel="0725-92-0422" fax="0725-92-0427">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.354194,135.352799" name="泉佐野市立稲倉青少年野外活動センター" url="http://www.city.izumisano.lg.jp/shisetsu/s_seisyounen/1300518622048.html"
+      x0401="27" post="598-0021" addr="大阪府泉佐野市日根野5560-186" tel="072-459-7557" fax="072-459-7557">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.699307,136.021246" name="松原市少年自然の家 (クリエート月ヶ瀬)" url="http://web1.kcn.jp/matubara-shizen/"
+      x0401="27" post="630-2305" addr="奈良県月ヶ瀬月瀬675" tel="0743-92-0041" fax="0743-92-0044">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="33.94382,135.09132" name="堺市立日高少年自然の家" url="http://osakaymca.or.jp/shisetsu/hidaka/"
+      x0401="27" post="649-1221" addr="和歌山県日高郡日高町志賀3794" tel="0738-64-2871" fax="0738-64-2579">
     <![CDATA[
     ]]>
   </marker>
@@ -11528,6 +12191,16 @@
   </marker>
   <marker type="G" ll="" name="東伯 第2団" url=""
       x0401="31" post="" addr="" tel="" fax="">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.430352,133.608391" name="鳥取県立船上山少年自然の家" url="http://www.pref.tottori.lg.jp/37749.htm"
+      x0401="31" post="689-2525" addr="取県東伯郡琴浦町山川807-2" tel="0858-55-7111" fax="0858-55-7119">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.415035,133.503215" name="鳥取県立大山青年の家" url="http://www.pref.tottori.lg.jp/4308.htm"
+      x0401="31" post="689-3319" addr="鳥取県西伯郡大山町赤松明間原312-1" tel="0859-53-8030" fax="0859-53-8265">
     <![CDATA[
     ]]>
   </marker>
@@ -11631,6 +12304,16 @@
   </marker>
   <marker type="F" ll="35.152068,132.625373" name="国立三瓶青少年交流の家" url="http://sanbe.niye.go.jp/"
       x0401="32" post="694-0002" addr="島根県大田市山口町山口1638-12" tel="0854-86-0311" fax="0854-86-0458">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.462261,132.879461" name="島根県立青少年の家 (サン・レイク)" url="http://www.pref.shimane.lg.jp/seishonennoie/"
+      x0401="32" post="691-0074" addr="島根県出雲市小境町1991-2" tel="0853-69-1316" fax="0853-69-1016">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.023785,132.252992" name="島根県立少年自然の家" url="http://www.pref.shimane.lg.jp/shonenshizen/"
+      x0401="32" post="695-0007" addr="島根県江津市松川町太田610" tel="0855-52-0716" fax="0855-52-0707">
     <![CDATA[
     ]]>
   </marker>
@@ -11757,7 +12440,32 @@
     ]]>
   </marker>
   <marker type="F" ll="34.823891,133.76535" name="国立吉備青少年自然の家" url="http://kibi.niye.go.jp/"
-      x0401="33" post="716-1241" addr="岡山県加賀郡吉備中央町吉川4393-82" tel="0866-56-7231" fax="">
+      x0401="33" post="716-1241" addr="岡山県加賀郡吉備中央町吉川4393-82" tel="0866-56-7231" fax="0866-56-7235">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.795742,134.221085" name="岡山県青少年教育センター 閑谷学校" url="http://shizutani.jp/center/"
+      x0401="33" post="705-0036" addr="岡山県備前市閑谷784" tel="0869-67-1427" fax="0869-67-1645">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.502119,133.852963" name="倉敷市少年自然の家" url="http://www2.city.kurashiki.okayama.jp/shizen/"
+      x0401="33" post="711-0901" addr="岡山県倉敷市児島由加2708" tel="086-477-5100" fax="086-477-5174">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.709857,134.14612" name="長船美しい森" url="http://www.city.setouchi.lg.jp/kankou/spot12_osamori.html"
+      x0401="33" post="701-4273" addr="岡山県瀬戸内市長船町磯上3076-1" tel="0869-26-5090" fax="0869-26-5090">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.13262,133.685712" name="勝山美しい森キャンプ場" url="http://www.city.maniwa.lg.jp/webapps/www/section/detail.jsp?id=2661"
+      x0401="33" post="717-0002" addr="岡山県真庭市菅谷453-1" tel="0867-44-5454" fax="0867-44-5454">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="35.152792,133.605893" name="クリエイト菅谷" url="http://www.sugedani.com/"
+      x0401="33" post="717-0105" addr="岡山県真庭市美甘1050-2" tel="0867-56-2044" fax="0867-56-2044">
     <![CDATA[
     ]]>
   </marker>
@@ -11935,6 +12643,47 @@
     <![CDATA[
     ]]>
   </marker>
+  <marker type="F" ll="34.450594,133.288509" name="広島県立福山少年自然の家" url="http://www.manabi.pref.hiroshima.lg.jp/gakusyu/fukuyama/"
+      x0401="34" post="720-0542" addr="広島県福山市金江町藁江619-2" tel="084-935-7166" fax="084-935-7179">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.481845,132.176904" name="広島県立もみのき森林公園" url="http://www.mominoki.or.jp/"
+      x0401="34" post="738-0301" addr="広島県廿日市市吉和1593-75" tel="0829-77-2011" fax="0829-77-2012">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.578251,132.433096" name="広島市青少年野外活動センター・こども村" url="http://www.cf.city.hiroshima.jp/yagai-ac/"
+      x0401="34" post="731-1171" addr="広島県広島市安佐北区安佐町小河内5135" tel="082-835-1444" fax="082-835-1445">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.416461,132.436842" name="広島市三滝少年自然の家・グリーンスポーツセンター" url="http://www.cf.city.hiroshima.jp/mitaki-c/"
+      x0401="34" post="733-0802" addr="広島県広島市西区三滝本町1-73-20" tel="082-238-6301" fax="082-238-6302">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.308537,132.440159" name="広島市似島臨海少年自然の家" url="http://www.cf.city.hiroshima.jp/rinkai/"
+      x0401="34" post="734-0017" addr="広島県広島市南区似島町字東大谷182" tel="082-259-2766" fax="082-259-2767">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.490217,133.291427" name="福山市自然研修センター ふくやまふれ愛ランド" url="http://www.city.fukuyama.hiroshima.jp/fureai/"
+      x0401="34" post="720-0843" addr="広島県福山市赤坂町大字赤坂甲545" tel="084-952-1177" fax="084-952-2320">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.821228,132.977066" name="高原の家 七塚" url="http://www15.ocn.ne.jp/~nanatuka/"
+      x0401="34" post="727-0023" addr="広島県庄原市七塚町580" tel="0824-75-2033" fax="0824-74-0827">
+    <![CDATA[
+    元 広島県立七塚原青年の家
+    ]]>
+  </marker>
+  <marker type="F" ll="34.670888,132.703788" name="安芸高田少年自然の家 輝ら里" url="http://www.akitakata.jp/site/page/kyouiku/syougaigakusyu/syonensizen/"
+      x0401="34" post="731-0501" addr="広島県安芸高田市吉田町吉田406" tel="0826-47-1331" fax="0826-47-1332">
+    <![CDATA[
+    ]]>
+  </marker>
 
   <!-- 山口県 -->
   <marker type="C" ll="34.172513,131.456268" name="日本ボーイスカウト 山口県連盟" url="http://www.scout-yamaguchi.net/"
@@ -12099,6 +12848,31 @@
       x0401="35" post="" addr="山口県山口市阿知須" tel="" fax="">
     <![CDATA[
     16NJ(2013)/23WSJ(2015) 会場
+    ]]>
+  </marker>
+  <marker type="F" ll="34.015438,132.198012" name="山口県由宇青少年自然の家 (ふれあいパーク)" url="http://www10.ocn.ne.jp/~furepaku/"
+      x0401="35" post="740-1432" addr="山口県岩国市由宇町字深山2273-2" tel="0827-63-1513" fax="0827-63-1558">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.265136,131.322554" name="山口県秋吉台青少年自然の家" url="http://www.c-able.ne.jp/~akishoji/"
+      x0401="35" post="754-0302" addr="山口県美祢市美東町赤2128-17" tel="08396-2-0581" fax="08396-2-0582">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.4514,131.694506" name="山口県十種ヶ峰青少年自然の家" url="http://www8.ocn.ne.jp/~seed10/"
+      x0401="35" post="759-1602" addr="山口県山口市阿東嘉年下1883-2" tel="083-958-0033" fax="083-958-0705">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.372319,131.002371" name="山口県油谷青少年自然の家" url="http://member.hot-cha.tv/~htc11281/"
+      x0401="35" post="759-4505" addr="山口県長門市油谷伊上1068" tel="0837-32-1000" fax="0837-32-0979">
+    <![CDATA[
+    ]]>
+  </marker>
+  <marker type="F" ll="34.1533,131.932605" name="周南市大田原自然の家" url="http://www.city.shunan.yamaguchi.jp/ootabara/"
+      x0401="35" post="745-0511" addr="山口県周南市大字中須北3194" tel="0834-89-0461" fax="0834-89-0461">
+    <![CDATA[
     ]]>
   </marker>
 

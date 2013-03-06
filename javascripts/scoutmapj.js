@@ -15,8 +15,9 @@ $.extend({
   }
 });
 
-var map, iw, geocoder, db, c_x0401;
+var map, iw, geocoder, db, c_x0401, fields;
 var markersArray = [];
+var htmlArray = [];
 var d_zoom = 13;
 var icon_path = 'http://maps.google.com/mapfiles/ms/micons/';
 var icon_style = 'width=\"16\" height=\"16\" class=\"anchor\"';
@@ -53,6 +54,11 @@ function initialize() {
   map = new google.maps.Map($('#map_canvas').get(0), mapOptions);
   iw = new google.maps.InfoWindow();
 
+  fields = $('<ul>').appendTo('#field_list');
+
+  setButton($('#desc'));
+  setButton($('#field'));
+
   $.ajaxSetup({ cache: false });
   initializeMarkers('./databases/scoutareaj.xml', x0401);
 }
@@ -60,21 +66,23 @@ function initialize() {
 function initializeMarkers(file, x0401) {
   $.get(file, {}, function(data) {
     db = data;
-    $(data).find('marker').each(function() {
+    $(db).find('marker').each(function() {
       var lo_m = $(this);
       var lo_type = lo_m.attr('type');
       if (lo_type.match(/[^AC]/)) return;
 
       createMarker(lo_m, lo_type, true);
     });
+    $('#pref').html(htmlArray);
+    htmlArray.length = 0;
     reloadMarkers(x0401);
   });
 }
 
-function createMarkers(data, x0401) {
+function createMarkers(x0401) {
   if (!x0401) return;
   var group = new RegExp(prefgroup[x0401]);
-  $(data).find('marker').each(function() {
+  $(db).find('marker').each(function() {
     var lo_m = $(this);
     if (!(lo_m.attr('x0401').match(group))) return;
     var lo_type = lo_m.attr('type');
@@ -82,6 +90,18 @@ function createMarkers(data, x0401) {
 
     createMarker(lo_m, lo_type, false);
   });
+  if (htmlArray) {
+    htmlArray.sort(function(a,b) {
+      if (a.attr('p') == c_x0401) return -1;
+      if (b.attr('p') == c_x0401) return 1;
+      return 0;
+    });
+    for (var i in htmlArray) {
+      if (htmlArray[i].attr('p') == c_x0401) htmlArray[i].addClass('em');
+    }
+  }
+  fields.html(htmlArray);
+  htmlArray.length = 0;
 }
 
 function createMarker(lo_m, lo_type, init) {
@@ -104,9 +124,16 @@ function createMarker(lo_m, lo_type, init) {
   if (init) {
     var name = (lo_name.split(' '))[1];
     var ll = lo_ll.toUrlValue() + ',' + lo_m.attr('x0401');
-    $('<option>').attr({ value: ll }).text(name).appendTo('#pref');
+    htmlArray.push($('<option>').attr({ value: ll }).text(name));
   } else {
     markersArray.push(marker);
+    if (lo_type == 'F') {
+      var item = '<span class=\"anchor\">' + lo_name + '</span><br />' + lo_m.attr('addr');
+      htmlArray.push($('<li>').attr({ p: lo_m.attr('x0401')}).html(item).bind("click", function() {
+        google.maps.event.trigger(marker, "click");
+        return false;
+      }));
+    }
   }
 }
 
@@ -116,8 +143,7 @@ function openInfo(m, c) {
     iw.open(map, m);
   } else {
     var pos = m.getPosition().toUrlValue();
-    var data = db;
-    $(data).find('marker').each(function() {
+    $(db).find('marker').each(function() {
       var lo_m = $(this);
       var ll = lo_m.attr('ll');
       if (ll != pos) return;
@@ -159,7 +185,8 @@ function reloadMarkers(x0401) {
     if (x0401 != c_x0401) {
       c_x0401 = x0401;
       deleteOverlays();
-      createMarkers(db, x0401);
+      fields.empty();
+      createMarkers(x0401);
     }
   } else {
     geocoder.geocode( { 'location': map.getCenter() }, function(results, status) {
@@ -168,7 +195,8 @@ function reloadMarkers(x0401) {
         if (x0401 != c_x0401) {
           c_x0401 = x0401;
           deleteOverlays();
-          createMarkers(db, x0401);
+          fields.empty();
+          createMarkers(x0401);
         }
       }
     });
@@ -178,7 +206,7 @@ function reloadMarkers(x0401) {
 // Deletes all markers in the array by removing references to them
 function deleteOverlays() {
   if (markersArray) {
-    for (i in markersArray) {
+    for (var i in markersArray) {
       markersArray[i].setMap(null);
     }
     markersArray.length = 0;
@@ -232,10 +260,16 @@ function selectPref() {
   reloadMarkers(ll[2]);
 }
 
-function toggleDesc() {
-  $('#description').toggle();
-  $('#roll').toggle();
-  $('#hang').toggle();
+function togglePanel(b, f) {
+  var p = '#' + $(b).attr('p');
+  $(p).toggle(f);
+  setButton(b);
+}
+
+function setButton(b) {
+  var o = $(b);
+  var p = '#' + o.attr('p');
+  o.text(($(p).is(':hidden'))? o.attr('e'): o.attr('c'));
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);

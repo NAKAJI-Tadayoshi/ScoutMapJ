@@ -9,9 +9,14 @@
       body { font-size: small }
       div.header { text-align: center; font-size: medium }
       div.footer { text-align: right; font-size: x-small }
+      span.anchor { color: blue; font-weight: bold }
       span.title { font-size: medium; font-weight: bold }
       fieldset { display: inline; padding: 0 2px }
       img.anchor { cursor: pointer; margin: 0 8px }
+      #field_list { margin: 0; padding: 0; height: 100%; width: 25%; overflow-y: auto; float: right; display: none }
+      ul { margin: 1px; padding: 0; list-style: none }
+      li { cursor: pointer; margin: 1px; padding: 2px; border: solid silver 1px }
+      li.em { border: solid black 2px }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=false&language=ja"></script>
@@ -22,7 +27,7 @@
   <body>
     <div class="header">
       <b>We are SCOUTS !!</b> ～ボーイスカウト活動地域検索～
-      <button title="説明文の表示" onclick="toggleDesc()" style="float:right"><span id="roll">▲</span><span id="hang" style="display:none">▼</span></button>
+      <button id="desc" title="説明文の表示" onclick="togglePanel(this)" e="▼" c="▲" p="description" style="float:right"></button>
     </div>
     <div id="description">
       ボーイスカウトの主な活動拠点、および、よく利用するキャンプ場などを検索できます。<br />
@@ -39,18 +44,17 @@
     <hr />
     <div align="center">
       <fieldset>
-        <label for="addr">場所や住所から検索</label>
-        <input id="addr" type="textbox" value="" onkeypress="enter2codeAddress(event)"/>
-        <button onclick="codeAddress(true)">Go!</button>
+        <input id="addr" type="textbox" value="" placeholder="駅・郵便番号・住所など" onkeypress="enter2codeAddress(event)"/>
+        <button onclick="codeAddress(true)">場所を検索</button>
       </fieldset>
       <fieldset>
-        <label for="pref">連盟から検索</label>
         <select id="pref" onchange="selectPref()"></select>
+        <label for="pref">へ移動</label>
       </fieldset>
-      <fieldset>
-        <button title="表示データの更新" onclick="reloadMarkers()">↻</button>
-      </fieldset>
+      <button title="表示データの更新" onclick="reloadMarkers()">↻</button>
+      <button id="field" title="キャンプ場一覧の表示" onclick="togglePanel(this)" e="◀" c="▶" p="field_list" style="float:right"></button>
     </div>
+    <div id="field_list"></div>
     <div id="map_canvas"></div>
     <hr />
     <div class="footer">
