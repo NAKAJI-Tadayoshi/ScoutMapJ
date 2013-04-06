@@ -123,8 +123,8 @@ function createMarker(lo_m, lo_type, init) {
 
   if (init) {
     var name = (lo_name.split(' '))[1];
-    var ll = lo_ll.toUrlValue() + ',' + lo_m.attr('x0401');
-    htmlArray.push($('<option>').attr({ value: ll }).text(name));
+    var pref = lo_m.attr('x0401') + ',' + lo_type;
+    htmlArray.push($('<option>').attr({ value: pref }).text(name));
   } else {
     markersArray.push(marker);
     if (lo_type == 'F') {
@@ -183,6 +183,7 @@ function gsb(q) {
 function reloadMarkers(x0401) {
   if (x0401) {
     if (x0401 != c_x0401) {
+      setPref(x0401);
       c_x0401 = x0401;
       deleteOverlays();
       fields.empty();
@@ -193,6 +194,7 @@ function reloadMarkers(x0401) {
       if (status == google.maps.GeocoderStatus.OK) {
         x0401 = jisx0401[getPref(results[0].address_components)];
         if (x0401 != c_x0401) {
+          setPref(x0401);
           c_x0401 = x0401;
           deleteOverlays();
           fields.empty();
@@ -253,11 +255,25 @@ function enter2codeAddress(e) {
   if (e.keyCode == 13) codeAddress(true);
 }
 
+function setPref(pref) {
+  pref += (pref == '13')? ',A': ',C';
+  $('#pref').val(pref);
+}
+
 function selectPref() {
-  var ll = $('#pref').val().split(',');
+  var ll = [];
+  var pref = $('#pref').val().split(',');
+  $(db).find('marker').each(function() {
+    var lo_m = $(this);
+    var lo_type = lo_m.attr('type');
+    var lo_x = lo_m.attr('x0401');
+    if (lo_type == pref[1] && lo_x == pref[0]) {
+      ll = lo_m.attr('ll').split(',');
+    }
+  });
   map.setZoom(d_zoom);
   map.setCenter(new google.maps.LatLng(parseFloat(ll[0]), parseFloat(ll[1])));
-  reloadMarkers(ll[2]);
+  reloadMarkers(pref[0]);
 }
 
 function togglePanel(b, f) {
