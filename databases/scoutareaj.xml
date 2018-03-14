@@ -11347,8 +11347,8 @@
     <![CDATA[
     豊能地区 (池田市, 豊能郡, 箕面市)<br />
     <a href="http://boyscout-toyonaka.seesaa.net/">豊中地区</a> (豊中市)<br />
-    <a href="http://wp.bs-mishima.org/">三島地区</a> (茨木市, 島本町, 摂津市, 高槻市)<br />
-    <a href="http://www.bs-suita.com/">吹田地区</a> (吹田市)<br />
+    <a href="http://wp.bs-mishima.org/">みしま地区</a> (吹田市, 茨木市, 島本町, 摂津市, 高槻市)<br />
+    <a href="http://www.bs-suita.com/">吹田連絡協議会</a> (吹田市)<br />
     <a href="http://yodokita.naturum.ne.jp/">淀川北地区</a> (淀川区, 西淀川区, 東淀川区)<br />
     <a href="http://bs-naniwa.com/">なにわ地区</a> (中央区, 西区, 北区, 福島区, 此花区, 港区, 浪速区, 大正区)<br />
     <a href="http://www.facebook.com/pages/ボーイスカウト大阪連盟城北地区/172532769511025/">城北地区</a> (都島区, 東成区, 旭区, 城東区, 鶴見区)<br />
@@ -11511,7 +11511,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <!-- 三島地区 -->
+  <!-- みしま地区 -->
   <marker type="G" ll="34.82351,135.570929" name="茨木 第1団" url="http://www.ibaichi.org/"
       x0401="27" post="" addr="茨木市立上中条青少年センター近辺" tel="" fax="">
     <![CDATA[
@@ -11593,7 +11593,7 @@
     <![CDATA[
     ]]>
   </marker>
-  <!-- 吹田地区 -->
+  <!-- 吹田連絡協議会 -->
   <marker type="G" ll="34.768802,135.522856" name="吹田 第1団" url="http://www.eonet.ne.jp/~suita1/"
       x0401="27" post="" addr="千一地区公民館近辺" tel="" fax="">
     <![CDATA[
@@ -11620,10 +11620,10 @@
     <![CDATA[
     ]]>
   </marker>
-  <marker type="G" ll="34.795371,135.548587" name="吹田 第10団" url="http://senriokachurch.blog118.fc2.com/blog-entry-16.html"
+  <marker type="G" ll="34.795371,135.548587" name="吹田 第10団" url="http://suita10scouts.blogspot.jp/p/info.html"
       x0401="27" post="565-0812" addr="吹田市千里丘中15-2 日本キリスト教団 千里丘教会" tel="06-6877-2338" fax="06-6877-2338">
     <![CDATA[
-    活動の様子は<a href="http://scout10suita.blogspot.com/">こちらから</a>ご覧になれます。
+    活動の様子は<a href="http://suita10scouts.blogspot.com/">こちらから</a>ご覧になれます。
     ]]>
   </marker>
   <marker type="G" ll="34.781856,135.518546" name="吹田 第12団" url="http://www5f.biglobe.ne.jp/~bssuita12/"
